@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/res/values-de/strings.xml -->
+    <eat-comment/>
+    <string name="Acerca">Über</string>
+    <string name="Otras_apps">Andere Apps</string>
+    <string name="Rate">Beurteilen</string>
+    <string name="Salir">Beenden</string>
+    <string name="a_veces">Manchmal -- Manchmal</string>
+    <string name="abajo">Nach unten -- Nach unten</string>
+    <string name="about">Über</string>
+    <string name="adios">Auf Wiedersehen -- Auf Wiedersehen</string>
+    <string name="agua">Wasser -- Wasser</string>
+    <string name="app_name">Deutsch lernen HD</string>
+    <string name="arriba"> Nach oben --  Nach oben</string>
+    <string name="autobus">Bus -- Bus</string>
+    <string name="avion">Flugzeug -- Flugzeug</string>
+    <string name="ayer">Gestern -- Gestern</string>
+    <string name="bicicleta">Fahrrad -- Fahrrad</string>
+    <string name="bien_gracias">Gut, danke -- Gut, danke</string>
+    <string name="buen_provecho">Bon appetit -- Bon appetit</string>
+    <string name="buenas_noches">Guten Nacht-- Guten Nacht</string>
+    <string name="buenas_tardes">Guten Abend-- Guten Abend</string>
+    <string name="buenosdias">Guten Morgen-- Guten Morgen</string>
+    <string name="camarero">Kellner -- Kellner</string>
+    <string name="cena">Abendessen -- Abendessen</string>
+    <string name="centro">Mitte -- Mitte</string>
+    <string name="coche">Auto -- Auto</string>
+    <string name="comida">Mittagessen -- Mittagessen</string>
+    <!-- From: file:/Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-de/common_strings.xml -->
+    <eat-comment/>
+    <string msgid="6428604800157361567" name="common_android_wear_notification_needs_update_text">"Für <ns1:g id="APP_NAME">%1$s</ns1:g> ist eine Aktualisierung der Android Wear App erforderlich."</string>
+    <string msgid="2453027084525739603" name="common_android_wear_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> funktioniert erst nach der Aktualisierung der Android Wear App."</string>
+    <string msgid="1366439133145190222" name="common_android_wear_update_title">"Android Wear aktualisieren"</string>
+    <string msgid="6534628256897874213" name="common_google_play_services_api_unavailable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> erfordert einen oder mehrere Google Play-Dienste, die derzeit nicht verfügbar sind. Bitte wenden Sie sich an den Entwickler, um Unterstützung zu erhalten."</string>
+    <string msgid="4181637455539816337" name="common_google_play_services_enable_button">"Google Play-Dienste aktivieren"</string>
+    <string msgid="4896236883690196080" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> funktioniert erst nach der Aktivierung der Google Play-Dienste."</string>
+    <string msgid="529078775174559253" name="common_google_play_services_enable_title">"Google Play-Dienste aktivieren"</string>
+    <string msgid="2443362625939284971" name="common_google_play_services_error_notification_requested_by_msg">"Angefordert von <ns1:g id="APP_NAME">%1$s</ns1:g>"</string>
+    <string msgid="8515591849428043265" name="common_google_play_services_install_button">"Google Play-Dienste installieren"</string>
+    <string msgid="8836325110837822534" name="common_google_play_services_install_text_phone">"Zur Nutzung von <ns1:g id="APP_NAME">%1$s</ns1:g> sind Google Play-Dienste erforderlich, die auf Ihrem Smartphone nicht installiert sind."</string>
+    <string msgid="542176290824754127" name="common_google_play_services_install_text_tablet">"Zur Nutzung von <ns1:g id="APP_NAME">%1$s</ns1:g> sind Google Play-Dienste erforderlich, die auf Ihrem Tablet nicht installiert sind."</string>
+    <string msgid="26645092511305524" name="common_google_play_services_install_title">"Google Play-Dienste installieren"</string>
+    <string msgid="4983316348021735578" name="common_google_play_services_invalid_account_text">"Das angegebene Konto ist auf diesem Gerät nicht vorhanden. Bitte wählen Sie ein anderes Konto aus."</string>
+    <string msgid="1066672360770936753" name="common_google_play_services_invalid_account_title">"Ungültiges Konto"</string>
+    <string msgid="2583358409598976717" name="common_google_play_services_needs_enabling_title">"App erfordert die Aktivierung der Google Play-Dienste"</string>
+    <string msgid="9038847255613537209" name="common_google_play_services_network_error_text">"Um eine Verbindung zu den Google Play-Diensten herzustellen, ist eine Datenverbindung erforderlich."</string>
+    <string msgid="3827284619958211114" name="common_google_play_services_network_error_title">"Netzwerkfehler"</string>
+    <string msgid="1388129345631079938" name="common_google_play_services_notification_needs_update_title">"App erfordert ein Update der Google Play-Dienste"</string>
+    <string msgid="1852570676146674985" name="common_google_play_services_notification_ticker">"Fehler bei Zugriff auf Google Play-Dienste"</string>
+    <string msgid="5194079840165204725" name="common_google_play_services_sign_in_failed_text">"Fehler beim Anmelden im angegebenen Konto. Bitte wählen Sie ein anderes Konto aus."</string>
+    <string msgid="8164948898147532159" name="common_google_play_services_sign_in_failed_title">"Anmeldung fehlgeschlagen"</string>
+    <string msgid="4762332809710093730" name="common_google_play_services_unknown_issue">"Unbekanntes Problem mit Google Play-Diensten"</string>
+    <string msgid="7682982632307307938" name="common_google_play_services_unsupported_text">"Zur Nutzung von <ns1:g id="APP_NAME">%1$s</ns1:g> sind Google Play-Dienste erforderlich. Diese werden auf Ihrem Gerät jedoch nicht unterstützt. Wenden Sie sich für weitere Informationen an den Hersteller."</string>
+    <string msgid="6334768798839376943" name="common_google_play_services_unsupported_title">"Google Play-Dienste"</string>
+    <string msgid="8932944190611227642" name="common_google_play_services_update_button">"Aktualisieren"</string>
+    <string msgid="5709479369299147668" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> wird nur ausgeführt, wenn Sie die Google Play-Dienste aktualisieren."</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">"Google Play-Dienste aktualisieren"</string>
+    <string msgid="2201289642219771610" name="common_google_play_services_updating_text">"Zur Nutzung von <ns1:g id="APP_NAME">%1$s</ns1:g> sind Google Play-Dienste erforderlich, die gerade aktualisiert werden."</string>
+    <string msgid="815008177440683245" name="common_google_play_services_updating_title">"Google Play-Dienste werden aktualisiert"</string>
+    <string msgid="411506735369601515" name="common_open_on_phone">"Auf Telefon öffnen"</string>
+    <string msgid="9071884888741449141" name="common_signin_button_text">"Anmelden"</string>
+    <string msgid="2429381841831957106" name="common_signin_button_text_long">"Über Google anmelden"</string>
+    <!-- From: file:/Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/res/values-de/strings.xml -->
+    <eat-comment/>
+    <string name="como_se_llama">Wie ist Ihr Name? -- Wie ist Ihr Name?</string>
+    <string name="cuanto_cuesta">Wie viel ist es? -- Wie viel ist es?</string>
+    <string name="cuchara">Löffel -- Löffel</string>
+    <string name="cuchillo">Messer -- Messer</string>
+    <string name="de_donde_eres">Woher kommen Sie? -- Woher kommen Sie?</string>
+    <string name="de_nada">Sie sind herzlich eingeladen -- Sie sind herzlich eingeladen</string>
+    <string name="debajo">Unter -- Unter</string>
+    <string name="delante">Front -- Front</string>
+    <string name="derecha">Recht -- Recht</string>
+    <string name="desayuno">Desayuno -- Frühstück</string>
+    <string name="detras">Zurück -- Zurück</string>
+    <string name="di_a_veces">Manchmal</string>
+    <string name="di_abajo">Nach unten</string>
+    <string name="di_adios">Auf Wiedersehen</string>
+    <string name="di_agua">Wasser</string>
+    <string name="di_arriba"> Nach oben</string>
+    <string name="di_autobus">Bus</string>
+    <string name="di_avion">Flugzeug</string>
+    <string name="di_ayer">Gestern</string>
+    <string name="di_bicicleta">Fahrrad</string>
+    <string name="di_bien_gracias">Gut, danke</string>
+    <string name="di_buen_provecho">Bon appetit</string>
+    <string name="di_buenas_noches">Guten Nacht</string>
+    <string name="di_buenas_tardes">Guten Abend</string>
+    <string name="di_buenos_dias">Guten Morgen</string>
+    <string name="di_camarero">Kellner</string>
+    <string name="di_cena">Abendessen</string>
+    <string name="di_centro">Mitte</string>
+    <string name="di_coche">Auto</string>
+    <string name="di_comida">Mittagessen</string>
+    <string name="di_como_se_llama">Wie ist Ihr Name?</string>
+    <string name="di_cuanto_cuesta">Wie viel ist es?</string>
+    <string name="di_cuchara">Löffel</string>
+    <string name="di_cuchillo">Messer</string>
+    <string name="di_de_donde_eres">Woher kommen Sie?</string>
+    <string name="di_de_nada">Sie sind herzlich eingeladen</string>
+    <string name="di_debajo">Unter</string>
+    <string name="di_delante">Front</string>
+    <string name="di_derecha">Recht</string>
+    <string name="di_desayuno">Frühstück</string>
+    <string name="di_detras">Zurück</string>
+    <string name="di_el_bano">Wo ist die Toilette?</string>
+    <string name="di_encantado">Nett, Sie kennenzulernen</string>
+    <string name="di_encima">Über</string>
+    <string name="di_es_posible">Es könnte sein,</string>
+    <string name="di_esta_bien">Das ist OK</string>
+    <string name="di_gracias">Danke</string>
+    <string name="di_habitacion">Zimmer</string>
+    <string name="di_habitacion_reservada">Ich habe ein Zimmer gebucht</string>
+    <string name="di_hasta_luego">Bis nachher</string>
+    <string name="di_hasta_manana">Wir sehen uns morgen</string>
+    <string name="di_hasta_pronto">Bis bald!</string>
+    <string name="di_hola">Hallo</string>
+    <string name="di_hotel"> Hotel</string>
+    <string name="di_hoy">Heute</string>
+    <string name="di_izquierda">Links</string>
+    <string name="di_la_carta">Können Sie mir das Menü geben, bitte?</string>
+    <string name="di_la_cuenta">Können Sie mir die Rechnung zu bringen, bitte?</string>
+    <string name="di_lo_siento">Entschuldigung</string>
+    <string name="di_manana">Morgen</string>
+    <string name="di_me_gusta">Ich mag, dass</string>
+    <string name="di_me_llamo_paul">Mein Name ist Paul</string>
+    <string name="di_me_puede_ayudar">Können Sie mir helfen?</string>
+    <string name="di_muchas_gracias">Vielen Dank</string>
+    <string name="di_necesito_un_medico">Ich brauche einen Arzt</string>
+    <string name="di_no">Nicht</string>
+    <string name="di_no_gracias">Nein, danke</string>
+    <string name="di_no_hablo_espanol">Ich spreche kein Deutsch</string>
+    <string name="di_nunca">Nie</string>
+    <string name="di_pan">Brot</string>
+    <string name="di_por_favor">Bitte</string>
+    <string name="di_quetal">Wie geht es Ihnen?</string>
+    <string name="di_servilleta">Serviette</string>
+    <string name="di_si">Ja</string>
+    <string name="di_siempre">Immer</string>
+    <string name="di_soy_de_eeuu">Ich bin aus der Türkei</string>
+    <string name="di_tenedor">Gabel</string>
+    <string name="di_tren">Zug</string>
+    <string name="di_un_cafe">Ein Kaffee, bitte</string>
+    <string name="di_una_cerveza">Ein Bier, bitte</string>
+    <string name="di_una_paella">Eine Paella, bitte</string>
+    <string name="di_una_tortilla">Ein Omelette, bitte </string>
+    <string name="di_vaso">Glas</string>
+    <string name="el_bano">Wo ist die Toilette? -- Wo ist die Toilette?</string>
+    <string name="encantado">Nett, Sie kennenzulernen -- Nett, Sie kennenzulernen</string>
+    <string name="encima">Über -- Über</string>
+    <string name="es_posible">Es könnte sein, -- Es könnte sein,</string>
+    <string name="esta_bien">Das ist OK -- Das ist OK</string>
+    <string name="extra_text1">Diese App ist sehr nützlich! \n Versuchen Sie es! \n https://play.google.com/store/apps/details?id=</string>
+    <string name="gracias">Danke -- Danke</string>
+    <string name="habitacion">Zimmer -- Zimmer</string>
+    <string name="habitacion_reservada">Ich habe ein Zimmer gebucht -- Ich habe ein Zimmer gebucht</string>
+    <string name="hasta_luego">Bis nachher-- Bis nachher</string>
+    <string name="hasta_manana">Wir sehen uns morgen-- Wir sehen uns morgen</string>
+    <string name="hasta_pronto">Bis bald! -- Bis bald!</string>
+    <string name="hola">Hallo -- Hallo</string>
+    <string name="hotel"> Hotel --  Hotel</string>
+    <string name="hoy">Heute -- Heute</string>
+    <string name="izquierda">Links -- Links</string>
+    <string name="la_carta">Können Sie mir das Menü geben, bitte? -- Können Sie mir das Menü geben, bitte?</string>
+    <string name="la_cuenta">Können Sie mir die Rechnung zu bringen, bitte? -- Können Sie mir die Rechnung zu bringen, bitte?</string>
+    <string name="lo_siento">Entschuldigung -- Entschuldigung</string>
+    <string name="manana">Morgen -- Morgen</string>
+    <string name="me_gusta">Ich mag, dass -- Ich mag, dass</string>
+    <string name="me_llamo_paul">Mein Name ist Paul -- Mein Name ist Paul</string>
+    <string name="me_puede_ayudar">Können Sie mir helfen? -- Können Sie mir helfen?</string>
+    <string name="muchas_gracias">Vielen Dank -- Vielen Dank</string>
+    <string name="necesito_un_medico">Ich brauche einen Arzt -- Ich brauche einen Arzt</string>
+    <string name="no">Nicht -- Nicht</string>
+    <string name="no_gracias">Nein, danke -- Nein, danke</string>
+    <string name="no_hablo_espanol">Ich spreche kein Deutsch -- Ich spreche kein Deutsch</string>
+    <string name="nunca">Nie -- Nie</string>
+    <string name="pan">Brot -- Brot</string>
+    <string name="por_favor">Bitte -- Bitte</string>
+    <string name="quetal">Wie geht es Ihnen? -- Wie geht es Ihnen?</string>
+    <string name="servilleta">Serviette -- Serviette</string>
+    <string name="si">Ja -- Ja</string>
+    <string name="siempre">Immer -- Immer</string>
+    <string name="soy_de_eeuu">Ich bin aus der Türkei -- Ich bin aus der Türkei</string>
+    <string name="subject1">Schauen Sie sich dieses app!</string>
+    <string name="tenedor">Gabel -- Gabel</string>
+    <string name="textoabout">Concept by Mymma Soto \nApplication von Pedro Santangelo \nIcons von Icons-Land \nhttp: //www.icons-land.com</string>
+    <string name="toast_redir">Umleiten auf Google Play zu Text to Speech-Engine installieren</string>
+    <string name="toast_set_language">Einstellen TTS Sprache Deutsch</string>
+    <string name="toast_tts_error">Fehler beim Initialisieren Text-To-Speech-Engine</string>
+    <string name="toast_tts_inicializado">Text-To-Speech-Engine initialisiert wurde</string>
+    <string name="tren">Zug -- Zug</string>
+    <string name="un_cafe">Ein Kaffee, bitte -- Ein Kaffee, bitte</string>
+    <string name="una_cerveza">Ein Bier, bitte -- Ein Bier, bitte</string>
+    <string name="una_paella">Eine Paella, bitte -- Eine Paella, bitte</string>
+    <string name="una_tortilla">Ein Omelette, bitte -- Ein Omelette, bitte</string>
+    <string name="vaso">Glas -- Glas</string>
+    <string name="version">Version</string>
+</resources>

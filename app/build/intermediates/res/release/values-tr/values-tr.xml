@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/res/values-tr/strings.xml -->
+    <eat-comment/>
+    <string name="Acerca">Yaklaşık</string>
+    <string name="Otras_apps">Diğer uygulamalar</string>
+    <string name="Rate">Oran</string>
+    <string name="Salir">Uç</string>
+    <string name="a_veces">Manchmal -- Bazen</string>
+    <string name="abajo">Nach unten -- Aşağı</string>
+    <string name="about">Yaklaşık</string>
+    <string name="adios">Auf Wiedersehen -- Elveda</string>
+    <string name="agua">Wasser -- Su</string>
+    <string name="app_name">Almanca öğrenin HD</string>
+    <string name="arriba"> Nach oben -- Yukarı</string>
+    <string name="autobus">Bus -- Otobüs</string>
+    <string name="avion">Flugzeug -- Uçak</string>
+    <string name="ayer">Gestern -- Dün</string>
+    <string name="bicicleta">Fahrrad -- Bisiklet</string>
+    <string name="bien_gracias">Gut, danke -- Peki, teşekkür ederim</string>
+    <string name="buen_provecho">Bon appetit -- Afiyet olsun</string>
+    <string name="buenas_noches">Guten Nacht-- Iyi geceler</string>
+    <string name="buenas_tardes">Guten Abend-- İyi akşamlar</string>
+    <string name="buenosdias">Guten Morgen-- Günaydın</string>
+    <string name="camarero">Kellner -- Garson</string>
+    <string name="cena">Abendessen -- Akşam yemeği</string>
+    <string name="centro">Mitte -- Merkez</string>
+    <string name="coche">Auto -- Araba</string>
+    <string name="comida">Mittagessen -- Öğle yemeği</string>
+    <!-- From: file:/Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-tr/common_strings.xml -->
+    <eat-comment/>
+    <string msgid="6428604800157361567" name="common_android_wear_notification_needs_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>, Android Wear uygulamasında güncelleme yapılmasını gerektiriyor."</string>
+    <string msgid="2453027084525739603" name="common_android_wear_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>, Android Wear uygulaması güncellenene kadar çalışmayacak."</string>
+    <string msgid="1366439133145190222" name="common_android_wear_update_title">"Android Wear\'ı Güncelle"</string>
+    <string msgid="6534628256897874213" name="common_google_play_services_api_unavailable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> şu anda kullanılamayan bir veya daha fazla Google Play hizmetini gerektiriyor. Lütfen yardım için geliştiriciyle iletişime geçin."</string>
+    <string msgid="4181637455539816337" name="common_google_play_services_enable_button">"Google Play hizmetlerini etkinleştir"</string>
+    <string msgid="4896236883690196080" name="common_google_play_services_enable_text">"Google Play hizmetlerini etkinleştirmezseniz <ns1:g id="APP_NAME">%1$s</ns1:g> çalışmayacak."</string>
+    <string msgid="529078775174559253" name="common_google_play_services_enable_title">"Google Play hizmetlerini etkinleştir"</string>
+    <string msgid="2443362625939284971" name="common_google_play_services_error_notification_requested_by_msg">"İstekte bulunan: <ns1:g id="APP_NAME">%1$s</ns1:g>"</string>
+    <string msgid="8515591849428043265" name="common_google_play_services_install_button">"Google Play hizmetlerini edin"</string>
+    <string msgid="8836325110837822534" name="common_google_play_services_install_text_phone">"<ns1:g id="APP_NAME">%1$s</ns1:g>, şu anda telefonunuzda bulunmayan Google Play hizmetleri olmadan çalışmayacak."</string>
+    <string msgid="542176290824754127" name="common_google_play_services_install_text_tablet">"<ns1:g id="APP_NAME">%1$s</ns1:g>, şu anda tabletinizde bulunmayan Google Play hizmetleri olmadan çalışmayacak."</string>
+    <string msgid="26645092511305524" name="common_google_play_services_install_title">"Google Play hizmetlerini edinin"</string>
+    <string msgid="4983316348021735578" name="common_google_play_services_invalid_account_text">"Belirtilen hesap bu cihazda mevcut değil. Lütfen farklı bir hesap seçin."</string>
+    <string msgid="1066672360770936753" name="common_google_play_services_invalid_account_title">"Geçersiz Hesap"</string>
+    <string msgid="2583358409598976717" name="common_google_play_services_needs_enabling_title">"Bir uygulama, Google Play Hizmetleri\'nin etkin olmasını gerektiriyor."</string>
+    <string msgid="9038847255613537209" name="common_google_play_services_network_error_text">"Google Play hizmetlerine bağlanmak için bir veri bağlantısı gerekiyor."</string>
+    <string msgid="3827284619958211114" name="common_google_play_services_network_error_title">"Ağ Hatası"</string>
+    <string msgid="1388129345631079938" name="common_google_play_services_notification_needs_update_title">"Bir uygulama, Google Play Hizmetleri için bir güncelleme gerektiriyor."</string>
+    <string msgid="1852570676146674985" name="common_google_play_services_notification_ticker">"Google Play Hizmetleri hatası"</string>
+    <string msgid="5194079840165204725" name="common_google_play_services_sign_in_failed_text">"Belirtilen hesapta oturum açılırken hata oluştu. Lütfen farklı bir hesap seçin."</string>
+    <string msgid="8164948898147532159" name="common_google_play_services_sign_in_failed_title">"Oturum açılamadı"</string>
+    <string msgid="4762332809710093730" name="common_google_play_services_unknown_issue">"Google Play hizmetleriyle ilgili bilinmeyen sorun."</string>
+    <string msgid="7682982632307307938" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>, cihazınız tarafından desteklenmeyen Google Play hizmetlerine ihtiyaç duyuyor. Yardım için üreticiyle görüşün."</string>
+    <string msgid="6334768798839376943" name="common_google_play_services_unsupported_title">"Google Play hizmetleri"</string>
+    <string msgid="8932944190611227642" name="common_google_play_services_update_button">"Güncelle"</string>
+    <string msgid="5709479369299147668" name="common_google_play_services_update_text">"Google Play hizmetlerini güncellemezseniz <ns1:g id="APP_NAME">%1$s</ns1:g> çalışmayacak."</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">"Google Play hizmetlerini güncelle"</string>
+    <string msgid="2201289642219771610" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>, şu anda güncellenmekte olan Google Play hizmetleri olmadan çalışmayacak."</string>
+    <string msgid="815008177440683245" name="common_google_play_services_updating_title">"Google Play hizmetleri güncelleniyor"</string>
+    <string msgid="411506735369601515" name="common_open_on_phone">"Telefonda aç"</string>
+    <string msgid="9071884888741449141" name="common_signin_button_text">"Oturum aç"</string>
+    <string msgid="2429381841831957106" name="common_signin_button_text_long">"Google\'da oturum aç"</string>
+    <!-- From: file:/Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/res/values-tr/strings.xml -->
+    <eat-comment/>
+    <string name="como_se_llama">Wie ist Ihr Name? -- Adın ne?</string>
+    <string name="cuanto_cuesta">Wie viel ist es? -- Ne kadar?</string>
+    <string name="cuchara">Löffel -- Kaşık</string>
+    <string name="cuchillo">Messer -- Bıçak</string>
+    <string name="de_donde_eres">Woher kommen Sie? -- Eğer Nerelisin?</string>
+    <string name="de_nada">Sie sind herzlich eingeladen -- Sen davetlidir</string>
+    <string name="debajo">Unter -- Altında</string>
+    <string name="delante">Front -- Ön</string>
+    <string name="derecha">Recht -- Sağ</string>
+    <string name="desayuno">Desayuno -- Frühstück</string>
+    <string name="detras">Zurück -- Geri</string>
+    <string name="di_a_veces">Manchmal</string>
+    <string name="di_abajo">Nach unten</string>
+    <string name="di_adios">Auf Wiedersehen</string>
+    <string name="di_agua">Wasser</string>
+    <string name="di_arriba"> Nach oben</string>
+    <string name="di_autobus">Bus</string>
+    <string name="di_avion">Flugzeug</string>
+    <string name="di_ayer">Gestern</string>
+    <string name="di_bicicleta">Fahrrad</string>
+    <string name="di_bien_gracias">Gut, danke</string>
+    <string name="di_buen_provecho">Bon appetit</string>
+    <string name="di_buenas_noches">Guten Nacht</string>
+    <string name="di_buenas_tardes">Guten Abend</string>
+    <string name="di_buenos_dias">Guten Morgen</string>
+    <string name="di_camarero">Kellner</string>
+    <string name="di_cena">Abendessen</string>
+    <string name="di_centro">Mitte</string>
+    <string name="di_coche">Auto</string>
+    <string name="di_comida">Mittagessen</string>
+    <string name="di_como_se_llama">Wie ist Ihr Name?</string>
+    <string name="di_cuanto_cuesta">Wie viel ist es?</string>
+    <string name="di_cuchara">Löffel</string>
+    <string name="di_cuchillo">Messer</string>
+    <string name="di_de_donde_eres">Woher kommen Sie?</string>
+    <string name="di_de_nada">Sie sind herzlich eingeladen</string>
+    <string name="di_debajo">Unter</string>
+    <string name="di_delante">Front</string>
+    <string name="di_derecha">Recht</string>
+    <string name="di_desayuno">Frühstück</string>
+    <string name="di_detras">Zurück</string>
+    <string name="di_el_bano">Wo ist die Toilette?</string>
+    <string name="di_encantado">Nett, Sie kennenzulernen</string>
+    <string name="di_encima">Über</string>
+    <string name="di_es_posible">Es könnte sein,</string>
+    <string name="di_esta_bien">Das ist OK</string>
+    <string name="di_gracias">Danke</string>
+    <string name="di_habitacion">Zimmer</string>
+    <string name="di_habitacion_reservada">Ich habe ein Zimmer gebucht</string>
+    <string name="di_hasta_luego">Bis nachher</string>
+    <string name="di_hasta_manana">Wir sehen uns morgen</string>
+    <string name="di_hasta_pronto">Bis bald!</string>
+    <string name="di_hola">Hallo</string>
+    <string name="di_hotel"> Hotel</string>
+    <string name="di_hoy">Heute</string>
+    <string name="di_izquierda">Links</string>
+    <string name="di_la_carta">Können Sie mir das Menü geben, bitte?</string>
+    <string name="di_la_cuenta">Können Sie mir die Rechnung zu bringen, bitte?</string>
+    <string name="di_lo_siento">Entschuldigung</string>
+    <string name="di_manana">Morgen</string>
+    <string name="di_me_gusta">Ich mag, dass</string>
+    <string name="di_me_llamo_paul">Mein Name ist Paul</string>
+    <string name="di_me_puede_ayudar">Können Sie mir helfen?</string>
+    <string name="di_muchas_gracias">Vielen Dank</string>
+    <string name="di_necesito_un_medico">Ich brauche einen Arzt</string>
+    <string name="di_no">Nicht</string>
+    <string name="di_no_gracias">Nein, danke</string>
+    <string name="di_no_hablo_espanol">Ich spreche kein Deutsch</string>
+    <string name="di_nunca">Nie</string>
+    <string name="di_pan">Brot</string>
+    <string name="di_por_favor">Bitte</string>
+    <string name="di_quetal">Wie geht es Ihnen?</string>
+    <string name="di_servilleta">Serviette</string>
+    <string name="di_si">Ja</string>
+    <string name="di_siempre">Immer</string>
+    <string name="di_soy_de_eeuu">Ich bin aus der Türkei</string>
+    <string name="di_tenedor">Gabel</string>
+    <string name="di_tren">Zug</string>
+    <string name="di_un_cafe">Ein Kaffee, bitte</string>
+    <string name="di_una_cerveza">Ein Bier, bitte</string>
+    <string name="di_una_paella">Eine Paella, bitte</string>
+    <string name="di_una_tortilla">Ein Omelette, bitte </string>
+    <string name="di_vaso">Glas</string>
+    <string name="el_bano">Wo ist die Toilette? -- Nerede tuvalet?</string>
+    <string name="encantado">Nett, Sie kennenzulernen -- Tanıştığımıza memnun oldum</string>
+    <string name="encima">Über -- Hakkında</string>
+    <string name="es_posible">Es könnte sein, -- Olabilir</string>
+    <string name="esta_bien">Das ist OK -- Sorun değil</string>
+    <string name="extra_text1">Bu uygulama çok yararlı! \ N deneyin! \ N https://play.google.com/store/apps/details?id=</string>
+    <string name="gracias">Danke -- Teşekkür ederim</string>
+    <string name="habitacion">Zimmer -- Oda</string>
+    <string name="habitacion_reservada">Ich habe ein Zimmer gebucht -- Ben bir oda rezervasyonu</string>
+    <string name="hasta_luego">Bis nachher-- Görüşürüz</string>
+    <string name="hasta_manana">Wir sehen uns morgen-- Yarın görüşürüz</string>
+    <string name="hasta_pronto">Bis bald! -- Görüşmek üzere!</string>
+    <string name="hola">Hallo -- Merhaba</string>
+    <string name="hotel"> Hotel -- Otel</string>
+    <string name="hoy">Heute -- Bugün</string>
+    <string name="izquierda">Links -- Sol</string>
+    <string name="la_carta">Können Sie mir das Menü geben, bitte? -- Eğer, bana menü verebilir misin lütfen?</string>
+    <string name="la_cuenta">Können Sie mir die Rechnung zu bringen, bitte? -- Bana fatura lütfen getirebilir miyim?</string>
+    <string name="lo_siento">Entschuldigung -- Üzgünüm</string>
+    <string name="manana">Morgen -- Sabah</string>
+    <string name="me_gusta">Ich mag, dass -- I like that</string>
+    <string name="me_llamo_paul">Mein Name ist Paul -- Benim adım Paul</string>
+    <string name="me_puede_ayudar">Können Sie mir helfen? -- Bana yardımcı olabilir misiniz?</string>
+    <string name="muchas_gracias">Vielen Dank -- Thank you very much</string>
+    <string name="necesito_un_medico">Ich brauche einen Arzt -- Ben bir doktora ihtiyacım var</string>
+    <string name="no">Nicht -- Değil</string>
+    <string name="no_gracias">Nein, danke -- Hayır, teşekkür ederim</string>
+    <string name="no_hablo_espanol">Ich spreche kein Deutsch -- Ben Almanca bilmiyorum</string>
+    <string name="nunca">Nie -- Asla</string>
+    <string name="pan">Brot -- Ekmek</string>
+    <string name="por_favor">Bitte -- Lütfen</string>
+    <string name="quetal">Wie geht es Ihnen? -- Nasılsın?</string>
+    <string name="servilleta">Serviette -- Peçete</string>
+    <string name="si">Ja -- Evet</string>
+    <string name="siempre">Immer -- Her zaman</string>
+    <string name="soy_de_eeuu">Ich bin aus der Türkei -- Ben türküm</string>
+    <string name="subject1">Bu uygulama bir göz var!</string>
+    <string name="tenedor">Gabel -- Çatal</string>
+    <string name="textoabout">Simgeler-Kara \n tarafından Pedro Santangelo \nIcons tarafından geliştirilen Mymma Soto \napplication göre Konsept http://www.icons-land.com</string>
+    <string name="toast_redir">Yüklemek için yönlendiriliyor Google Speech Engine Metin oyna</string>
+    <string name="toast_set_language">Ayar TTS dil Almanca</string>
+    <string name="toast_tts_error">Hata Text-To-Speech motoru başlatılırken</string>
+    <string name="toast_tts_inicializado">Text-To-Speech motor başlatıldı</string>
+    <string name="tren">Zug -- Tren</string>
+    <string name="un_cafe">Ein Kaffee, bitte -- Bir kahve, lütfen</string>
+    <string name="una_cerveza">Ein Bier, bitte -- Bir bira lütfen</string>
+    <string name="una_paella">Eine Paella, bitte -- Bir paella, lütfen</string>
+    <string name="una_tortilla">Ein Omelette, bitte -- Bir omlet, lütfen</string>
+    <string name="vaso">Glas -- Cam</string>
+    <string name="version">Versiyon</string>
+</resources>

@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/res/values-bg/strings.xml -->
+    <eat-comment/>
+    <string name="Acerca">около</string>
+    <string name="Otras_apps">Други Apps</string>
+    <string name="Rate">Оценява</string>
+    <string name="Salir">Край</string>
+    <string name="a_veces">Manchmal -- Понякога</string>
+    <string name="abajo">Nach unten -- Надолу</string>
+    <string name="about">около</string>
+    <string name="adios">Auf Wiedersehen -- Довиждане</string>
+    <string name="agua">Wasser -- Води</string>
+    <string name="app_name">Научете немски HD</string>
+    <string name="arriba"> Nach oben -- Нагоре</string>
+    <string name="autobus">Bus -- Автобус</string>
+    <string name="avion">Flugzeug -- Самолет</string>
+    <string name="ayer">Gestern -- Вчера</string>
+    <string name="bicicleta">Fahrrad -- Велосипед</string>
+    <string name="bien_gracias">Gut, danke -- Е, благодаря ти</string>
+    <string name="buen_provecho">Bon appetit -- Добър апетит</string>
+    <string name="buenas_noches">Guten Nacht-- Лека нощ</string>
+    <string name="buenas_tardes">Guten Abend-- Добър вечер</string>
+    <string name="buenosdias">Guten Morgen-- Добро утро</string>
+    <string name="camarero">Kellner -- Келнер</string>
+    <string name="cena">Abendessen -- Вечеря</string>
+    <string name="centro">Mitte -- Център</string>
+    <string name="coche">Auto -- Кола</string>
+    <string name="comida">Mittagessen -- Обяд</string>
+    <!-- From: file:/Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-bg/common_strings.xml -->
+    <eat-comment/>
+    <string msgid="6428604800157361567" name="common_android_wear_notification_needs_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> изисква актуализиране на приложението Android Wear."</string>
+    <string msgid="2453027084525739603" name="common_android_wear_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> няма да стартира, освен ако не актуализирате приложението Android Wear."</string>
+    <string msgid="1366439133145190222" name="common_android_wear_update_title">"Актуализиране на Android Wear"</string>
+    <string msgid="6534628256897874213" name="common_google_play_services_api_unavailable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> изисква една или повече услуги за Google Play, които понастоящем не са налице. Моля, свържете се с програмиста за съдействие."</string>
+    <string msgid="4181637455539816337" name="common_google_play_services_enable_button">"Услуги за Google Play: Актив."</string>
+    <string msgid="4896236883690196080" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> няма да работи, освен ако не активирате услугите за Google Play."</string>
+    <string msgid="529078775174559253" name="common_google_play_services_enable_title">"Активиране на услугите за Google Play"</string>
+    <string msgid="2443362625939284971" name="common_google_play_services_error_notification_requested_by_msg">"Заявено от <ns1:g id="APP_NAME">%1$s</ns1:g>"</string>
+    <string msgid="8515591849428043265" name="common_google_play_services_install_button">"Услуги за Google Play: Изтегл."</string>
+    <string msgid="8836325110837822534" name="common_google_play_services_install_text_phone">"<ns1:g id="APP_NAME">%1$s</ns1:g> няма да се изпълнява, тъй като услугите за Google Play не са инсталирани на телефона ви."</string>
+    <string msgid="542176290824754127" name="common_google_play_services_install_text_tablet">"<ns1:g id="APP_NAME">%1$s</ns1:g> няма да се изпълнява, тъй като услугите за Google Play не са инсталирани на таблета ви."</string>
+    <string msgid="26645092511305524" name="common_google_play_services_install_title">"Изтегляне на услугите за Google Play"</string>
+    <string msgid="4983316348021735578" name="common_google_play_services_invalid_account_text">"Посоченият профил не съществува на това устройство. Моля, изберете друг."</string>
+    <string msgid="1066672360770936753" name="common_google_play_services_invalid_account_title">"Невалиден профил"</string>
+    <string msgid="2583358409598976717" name="common_google_play_services_needs_enabling_title">"Приложение изисква активирането на услугите за Google Play."</string>
+    <string msgid="9038847255613537209" name="common_google_play_services_network_error_text">"За свързване с услугите за Google Play се изисква връзка за данни."</string>
+    <string msgid="3827284619958211114" name="common_google_play_services_network_error_title">"Грешка в мрежата"</string>
+    <string msgid="1388129345631079938" name="common_google_play_services_notification_needs_update_title">"Приложение изисква актуализирането на услугите за Google Play."</string>
+    <string msgid="1852570676146674985" name="common_google_play_services_notification_ticker">"Грешка в услугите за Google Play"</string>
+    <string msgid="5194079840165204725" name="common_google_play_services_sign_in_failed_text">"При влизането в посочения профил възникна грешка. Моля, изберете друг."</string>
+    <string msgid="8164948898147532159" name="common_google_play_services_sign_in_failed_title">"Влизането в профила не бе успешно"</string>
+    <string msgid="4762332809710093730" name="common_google_play_services_unknown_issue">"Неизвестен проблем с услугите за Google Play."</string>
+    <string msgid="7682982632307307938" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> разчита на услугите за Google Play, които не се поддържат от устройството ви. Свържете се с производителя за съдействие."</string>
+    <string msgid="6334768798839376943" name="common_google_play_services_unsupported_title">"Услуги за Google Play"</string>
+    <string msgid="8932944190611227642" name="common_google_play_services_update_button">"Актуализиране"</string>
+    <string msgid="5709479369299147668" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> няма да се изпълнява, освен ако не актуализирате услугите за Google Play."</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">"Актуализиране на услугите за Google Play"</string>
+    <string msgid="2201289642219771610" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> няма да се изпълнява без услугите за Google Play. Понастоящем те се актуализират."</string>
+    <string msgid="815008177440683245" name="common_google_play_services_updating_title">"Услугите за Google Play се актуализират"</string>
+    <string msgid="411506735369601515" name="common_open_on_phone">"Отваряне в телефона"</string>
+    <string msgid="9071884888741449141" name="common_signin_button_text">"Вход"</string>
+    <string msgid="2429381841831957106" name="common_signin_button_text_long">"Вход с Google"</string>
+    <!-- From: file:/Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/res/values-bg/strings.xml -->
+    <eat-comment/>
+    <string name="como_se_llama">Wie ist Ihr Name? -- Какво е вашето име?</string>
+    <string name="cuanto_cuesta">Wie viel ist es? -- Колко е тя?</string>
+    <string name="cuchara">Löffel -- Spoon</string>
+    <string name="cuchillo">Messer -- Нож</string>
+    <string name="de_donde_eres">Woher kommen Sie? -- От къде сте?</string>
+    <string name="de_nada">Sie sind herzlich eingeladen -- Вие сте любезно поканени</string>
+    <string name="debajo">Unter -- Под</string>
+    <string name="delante">Front -- Преден</string>
+    <string name="derecha">Recht -- Надясно</string>
+    <string name="desayuno">Desayuno -- Frühstück</string>
+    <string name="detras">Zurück -- Обратно</string>
+    <string name="di_a_veces">Manchmal</string>
+    <string name="di_abajo">Nach unten</string>
+    <string name="di_adios">Auf Wiedersehen</string>
+    <string name="di_agua">Wasser</string>
+    <string name="di_arriba"> Nach oben</string>
+    <string name="di_autobus">Bus</string>
+    <string name="di_avion">Flugzeug</string>
+    <string name="di_ayer">Gestern</string>
+    <string name="di_bicicleta">Fahrrad</string>
+    <string name="di_bien_gracias">Gut, danke</string>
+    <string name="di_buen_provecho">Bon appetit</string>
+    <string name="di_buenas_noches">Guten Nacht</string>
+    <string name="di_buenas_tardes">Guten Abend</string>
+    <string name="di_buenos_dias">Guten Morgen</string>
+    <string name="di_camarero">Kellner</string>
+    <string name="di_cena">Abendessen</string>
+    <string name="di_centro">Mitte</string>
+    <string name="di_coche">Auto</string>
+    <string name="di_comida">Mittagessen</string>
+    <string name="di_como_se_llama">Wie ist Ihr Name?</string>
+    <string name="di_cuanto_cuesta">Wie viel ist es?</string>
+    <string name="di_cuchara">Löffel</string>
+    <string name="di_cuchillo">Messer</string>
+    <string name="di_de_donde_eres">Woher kommen Sie?</string>
+    <string name="di_de_nada">Sie sind herzlich eingeladen</string>
+    <string name="di_debajo">Unter</string>
+    <string name="di_delante">Front</string>
+    <string name="di_derecha">Recht</string>
+    <string name="di_desayuno">Frühstück</string>
+    <string name="di_detras">Zurück</string>
+    <string name="di_el_bano">Wo ist die Toilette?</string>
+    <string name="di_encantado">Nett, Sie kennenzulernen</string>
+    <string name="di_encima">Über</string>
+    <string name="di_es_posible">Es könnte sein,</string>
+    <string name="di_esta_bien">Das ist OK</string>
+    <string name="di_gracias">Danke</string>
+    <string name="di_habitacion">Zimmer</string>
+    <string name="di_habitacion_reservada">Ich habe ein Zimmer gebucht</string>
+    <string name="di_hasta_luego">Bis nachher</string>
+    <string name="di_hasta_manana">Wir sehen uns morgen</string>
+    <string name="di_hasta_pronto">Bis bald!</string>
+    <string name="di_hola">Hallo</string>
+    <string name="di_hotel"> Hotel</string>
+    <string name="di_hoy">Heute</string>
+    <string name="di_izquierda">Links</string>
+    <string name="di_la_carta">Können Sie mir das Menü geben, bitte?</string>
+    <string name="di_la_cuenta">Können Sie mir die Rechnung zu bringen, bitte?</string>
+    <string name="di_lo_siento">Entschuldigung</string>
+    <string name="di_manana">Morgen</string>
+    <string name="di_me_gusta">Ich mag, dass</string>
+    <string name="di_me_llamo_paul">Mein Name ist Paul</string>
+    <string name="di_me_puede_ayudar">Können Sie mir helfen?</string>
+    <string name="di_muchas_gracias">Vielen Dank</string>
+    <string name="di_necesito_un_medico">Ich brauche einen Arzt</string>
+    <string name="di_no">Nicht</string>
+    <string name="di_no_gracias">Nein, danke</string>
+    <string name="di_no_hablo_espanol">Ich spreche kein Deutsch</string>
+    <string name="di_nunca">Nie</string>
+    <string name="di_pan">Brot</string>
+    <string name="di_por_favor">Bitte</string>
+    <string name="di_quetal">Wie geht es Ihnen?</string>
+    <string name="di_servilleta">Serviette</string>
+    <string name="di_si">Ja</string>
+    <string name="di_siempre">Immer</string>
+    <string name="di_soy_de_eeuu">Ich bin aus der Türkei</string>
+    <string name="di_tenedor">Gabel</string>
+    <string name="di_tren">Zug</string>
+    <string name="di_un_cafe">Ein Kaffee, bitte</string>
+    <string name="di_una_cerveza">Ein Bier, bitte</string>
+    <string name="di_una_paella">Eine Paella, bitte</string>
+    <string name="di_una_tortilla">Ein Omelette, bitte </string>
+    <string name="di_vaso">Glas</string>
+    <string name="el_bano">Wo ist die Toilette? -- Къде е тоалетната?</string>
+    <string name="encantado">Nett, Sie kennenzulernen -- Приятно ми е да се запознаем</string>
+    <string name="encima">Über -- За</string>
+    <string name="es_posible">Es könnte sein, -- Тя може да бъде</string>
+    <string name="esta_bien">Das ist OK -- Това е ОК</string>
+    <string name="extra_text1">Това приложение е много полезно! \n го Опитайте! \n https://play.google.com/store/apps/details?id=</string>
+    <string name="gracias">Danke -- Благодаря</string>
+    <string name="habitacion">Zimmer -- Стая</string>
+    <string name="habitacion_reservada">Ich habe ein Zimmer gebucht -- I резервира стая</string>
+    <string name="hasta_luego">Bis nachher-- Ще се видим по-късно</string>
+    <string name="hasta_manana">Wir sehen uns morgen-- Ще се видим утре</string>
+    <string name="hasta_pronto">Bis bald! -- Ще се видим скоро!</string>
+    <string name="hola">Hallo -- Здравейте</string>
+    <string name="hotel"> Hotel -- Хотел</string>
+    <string name="hoy">Heute -- Днес</string>
+    <string name="izquierda">Links -- Наляво</string>
+    <string name="la_carta">Können Sie mir das Menü geben, bitte? -- Можете ли да ми даде менюто, моля?</string>
+    <string name="la_cuenta">Können Sie mir die Rechnung zu bringen, bitte? -- Можеш ли да ми донесе сметката, моля?</string>
+    <string name="lo_siento">Entschuldigung -- Съжалявам</string>
+    <string name="manana">Morgen -- Сутрин</string>
+    <string name="me_gusta">Ich mag, dass -- Харесва ми, че</string>
+    <string name="me_llamo_paul">Mein Name ist Paul -- Моето име е Павел</string>
+    <string name="me_puede_ayudar">Können Sie mir helfen? -- Можеш ли да ми помогнеш?</string>
+    <string name="muchas_gracias">Vielen Dank -- Много благодаря</string>
+    <string name="necesito_un_medico">Ich brauche einen Arzt -- Имам нужда от лекар</string>
+    <string name="no">Nicht -- Не</string>
+    <string name="no_gracias">Nein, danke -- Не, благодаря</string>
+    <string name="no_hablo_espanol">Ich spreche kein Deutsch -- Аз не говоря немски</string>
+    <string name="nunca">Nie -- Никога</string>
+    <string name="pan">Brot -- Хляб</string>
+    <string name="por_favor">Bitte -- Моля</string>
+    <string name="quetal">Wie geht es Ihnen? -- Как сте?</string>
+    <string name="servilleta">Serviette -- Салфетка</string>
+    <string name="si">Ja -- Да</string>
+    <string name="siempre">Immer -- Винаги</string>
+    <string name="soy_de_eeuu">Ich bin aus der Türkei -- Аз съм от Турция</string>
+    <string name="subject1">Погледнете това приложение!</string>
+    <string name="tenedor">Gabel -- Вилица</string>
+    <string name="textoabout">Concept от Mymma Soto \nApplication разработен от Pedro Santangelo \nIcons от Icons-Land \nhttp://www.icons-land.com</string>
+    <string name="toast_redir">Пренасочване да инсталирате Google Play текст в реч Engine</string>
+    <string name="toast_set_language">Настройка TTS език German</string>
+    <string name="toast_tts_error">Грешка при инициализиране на Text-To-Speech двигател</string>
+    <string name="toast_tts_inicializado">Двигател Text-To-Speech се инициализира</string>
+    <string name="tren">Zug -- Влак</string>
+    <string name="un_cafe">Ein Kaffee, bitte -- А кафе, моля</string>
+    <string name="una_cerveza">Ein Bier, bitte -- A бира, моля</string>
+    <string name="una_paella">Eine Paella, bitte -- A паеля, моля</string>
+    <string name="una_tortilla">Ein Omelette, bitte -- Един омлет, моля</string>
+    <string name="vaso">Glas -- Стъкло</string>
+    <string name="version">версия</string>
+</resources>

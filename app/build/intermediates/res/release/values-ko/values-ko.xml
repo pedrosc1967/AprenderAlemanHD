@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/res/values-ko/strings.xml -->
+    <eat-comment/>
+    <string name="Acerca">약</string>
+    <string name="Otras_apps">다른 애플 리케이션</string>
+    <string name="Rate">평가</string>
+    <string name="Salir">끝</string>
+    <string name="a_veces">Manchmal -- 때때로</string>
+    <string name="abajo">Nach unten -- 아래로</string>
+    <string name="about">약</string>
+    <string name="adios">Auf Wiedersehen -- 안녕히 가세요</string>
+    <string name="agua">Wasser -- 물</string>
+    <string name="app_name">독일어 HD 알아보기</string>
+    <string name="arriba">Nach oben -- 올라</string>
+    <string name="autobus">Bus -- 버스</string>
+    <string name="avion">Flugzeug -- 항공기</string>
+    <string name="ayer">Gestern -- 어제</string>
+    <string name="bicicleta">Fahrrad -- 자전거</string>
+    <string name="bien_gracias">Gut, danke -- 그럼, 감사합니다</string>
+    <string name="buen_provecho">Bon appetit -- 많이 드</string>
+    <string name="buenas_noches">Guten Nacht-- 안녕히 주무세요</string>
+    <string name="buenas_tardes">Guten Abend-- 안녕하세요</string>
+    <string name="buenosdias">Guten Morgen-- 좋은 아침</string>
+    <string name="camarero">Kellner -- 웨이터</string>
+    <string name="cena">Abendessen -- 저녁 식사</string>
+    <string name="centro">Mitte -- 센터</string>
+    <string name="coche">Auto -- 자동차</string>
+    <string name="comida">Mittagessen -- 점심 식사</string>
+    <!-- From: file:/Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-ko/common_strings.xml -->
+    <eat-comment/>
+    <string msgid="6428604800157361567" name="common_android_wear_notification_needs_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>에서 Android Wear 앱을 업데이트해야 합니다."</string>
+    <string msgid="2453027084525739603" name="common_android_wear_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>은(는) Android Wear 앱을 업데이트하지 않으면 실행되지 않습니다."</string>
+    <string msgid="1366439133145190222" name="common_android_wear_update_title">"Android Wear 업데이트"</string>
+    <string msgid="6534628256897874213" name="common_google_play_services_api_unavailable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>에 필요한 하나 이상의 Google Play 서비스를 현재 사용할 수 없습니다. 개발자에게 문의하여 도움을 받으시기 바랍니다."</string>
+    <string msgid="4181637455539816337" name="common_google_play_services_enable_button">"Google Play 서비스 사용"</string>
+    <string msgid="4896236883690196080" name="common_google_play_services_enable_text">"Google Play 서비스를 사용하도록 설정해야 <ns1:g id="APP_NAME">%1$s</ns1:g>이(가) 작동합니다."</string>
+    <string msgid="529078775174559253" name="common_google_play_services_enable_title">"Google Play 서비스 사용"</string>
+    <string msgid="2443362625939284971" name="common_google_play_services_error_notification_requested_by_msg">"<ns1:g id="APP_NAME">%1$s</ns1:g>에서 요청"</string>
+    <string msgid="8515591849428043265" name="common_google_play_services_install_button">"Google Play 서비스 설치"</string>
+    <string msgid="8836325110837822534" name="common_google_play_services_install_text_phone">"휴대전화에 Google Play 서비스가 설치되어 있어야 <ns1:g id="APP_NAME">%1$s</ns1:g>이(가) 실행됩니다."</string>
+    <string msgid="542176290824754127" name="common_google_play_services_install_text_tablet">"태블릿에 Google Play 서비스가 설치되어 있어야 <ns1:g id="APP_NAME">%1$s</ns1:g>이(가) 실행됩니다."</string>
+    <string msgid="26645092511305524" name="common_google_play_services_install_title">"Google Play 서비스 설치"</string>
+    <string msgid="4983316348021735578" name="common_google_play_services_invalid_account_text">"지정한 계정이 이 기기에 존재하지 않습니다. 다른 계정을 선택하세요."</string>
+    <string msgid="1066672360770936753" name="common_google_play_services_invalid_account_title">"올바르지 않은 계정"</string>
+    <string msgid="2583358409598976717" name="common_google_play_services_needs_enabling_title">"Google Play 서비스를 사용 설정해야 하는 애플리케이션입니다."</string>
+    <string msgid="9038847255613537209" name="common_google_play_services_network_error_text">"Google Play 서비스에 연결하려면 데이터 연결이 필요합니다."</string>
+    <string msgid="3827284619958211114" name="common_google_play_services_network_error_title">"네트워크 오류"</string>
+    <string msgid="1388129345631079938" name="common_google_play_services_notification_needs_update_title">"Google Play 서비스를 업데이트해야 하는 애플리케이션입니다."</string>
+    <string msgid="1852570676146674985" name="common_google_play_services_notification_ticker">"Google Play 서비스 오류"</string>
+    <string msgid="5194079840165204725" name="common_google_play_services_sign_in_failed_text">"지정한 계정에 로그인하는 중에 오류가 발생했습니다. 다른 계정을 선택해 주세요."</string>
+    <string msgid="8164948898147532159" name="common_google_play_services_sign_in_failed_title">"로그인 실패"</string>
+    <string msgid="4762332809710093730" name="common_google_play_services_unknown_issue">"Google Play 서비스에 알 수 없는 문제가 발생했습니다."</string>
+    <string msgid="7682982632307307938" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>에 필요한 Google Play 서비스가 사용자 기기에서 지원되지 않습니다. 기기 제조업체에 문의하시기 바랍니다."</string>
+    <string msgid="6334768798839376943" name="common_google_play_services_unsupported_title">"Google Play 서비스"</string>
+    <string msgid="8932944190611227642" name="common_google_play_services_update_button">"업데이트"</string>
+    <string msgid="5709479369299147668" name="common_google_play_services_update_text">"Google Play 서비스를 업데이트해야 <ns1:g id="APP_NAME">%1$s</ns1:g>이(가) 실행됩니다."</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">"Google Play 서비스 업데이트"</string>
+    <string msgid="2201289642219771610" name="common_google_play_services_updating_text">"현재 업데이트 중인 Google Play 서비스가 있어야 <ns1:g id="APP_NAME">%1$s</ns1:g>이(가) 실행됩니다."</string>
+    <string msgid="815008177440683245" name="common_google_play_services_updating_title">"Google Play 서비스 업데이트 중"</string>
+    <string msgid="411506735369601515" name="common_open_on_phone">"휴대전화에서 열기"</string>
+    <string msgid="9071884888741449141" name="common_signin_button_text">"로그인"</string>
+    <string msgid="2429381841831957106" name="common_signin_button_text_long">"Google 계정으로 로그인"</string>
+    <!-- From: file:/Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/res/values-ko/strings.xml -->
+    <eat-comment/>
+    <string name="como_se_llama">Wie ist Ihr Name? -- 당신의 이름은 무엇입니까?</string>
+    <string name="cuanto_cuesta">Wie viel ist es? -- 얼마 죠?</string>
+    <string name="cuchara">Löffel -- 숟가락</string>
+    <string name="cuchillo">Messer -- 칼</string>
+    <string name="de_donde_eres">Woher kommen Sie? -- 당신은 어디에서인가?</string>
+    <string name="de_nada">Bitte -- 당신은 진심으로 초대합니다</string>
+    <string name="debajo">Unter -- 아래의</string>
+    <string name="delante">Front -- 앞</string>
+    <string name="derecha">Recht -- 권리</string>
+    <string name="desayuno">Desayuno -- Frühstück</string>
+    <string name="detras">Zurück -- 백</string>
+    <string name="di_a_veces">Manchmal</string>
+    <string name="di_abajo">Nach unten</string>
+    <string name="di_adios">Auf Wiedersehen</string>
+    <string name="di_agua">Wasser</string>
+    <string name="di_arriba">Nach oben</string>
+    <string name="di_autobus">Bus</string>
+    <string name="di_avion">Flugzeug</string>
+    <string name="di_ayer">Gestern</string>
+    <string name="di_bicicleta">Fahrrad</string>
+    <string name="di_bien_gracias">Gut, danke</string>
+    <string name="di_buen_provecho">Bon appetit</string>
+    <string name="di_buenas_noches">Guten Nacht</string>
+    <string name="di_buenas_tardes">Guten Abend</string>
+    <string name="di_buenos_dias">Guten Morgen</string>
+    <string name="di_camarero">Kellner</string>
+    <string name="di_cena">Abendessen</string>
+    <string name="di_centro">Mitte</string>
+    <string name="di_coche">Auto</string>
+    <string name="di_comida">Mittagessen</string>
+    <string name="di_como_se_llama">Wie ist Ihr Name?</string>
+    <string name="di_cuanto_cuesta">Wie viel ist es?</string>
+    <string name="di_cuchara">Löffel</string>
+    <string name="di_cuchillo">Messer</string>
+    <string name="di_de_donde_eres">Woher kommen Sie?</string>
+    <string name="di_de_nada">Bitte</string>
+    <string name="di_debajo">Unter</string>
+    <string name="di_delante">Front</string>
+    <string name="di_derecha">Recht</string>
+    <string name="di_desayuno">Frühstück</string>
+    <string name="di_detras">Zurück</string>
+    <string name="di_el_bano">Wo ist die Toilette?</string>
+    <string name="di_encantado">Nett, Sie kennenzulernen</string>
+    <string name="di_encima">Über</string>
+    <string name="di_es_posible">Es könnte sein,</string>
+    <string name="di_esta_bien">Das ist OK</string>
+    <string name="di_gracias">Danke</string>
+    <string name="di_habitacion">Zimmer</string>
+    <string name="di_habitacion_reservada">Ich habe ein Zimmer gebucht</string>
+    <string name="di_hasta_luego">Bis nachher</string>
+    <string name="di_hasta_manana">Wir sehen uns morgen</string>
+    <string name="di_hasta_pronto">Bis bald!</string>
+    <string name="di_hola">Hallo</string>
+    <string name="di_hotel">Hotel</string>
+    <string name="di_hoy">Heute</string>
+    <string name="di_izquierda">Links</string>
+    <string name="di_la_carta">Können Sie mir das Menü geben, bitte?</string>
+    <string name="di_la_cuenta">Können Sie mir die Rechnung zu bringen, bitte?</string>
+    <string name="di_lo_siento">Entschuldigung</string>
+    <string name="di_manana">Morgen</string>
+    <string name="di_me_gusta">Ich mag, dass</string>
+    <string name="di_me_llamo_paul">Mein Name ist Paul</string>
+    <string name="di_me_puede_ayudar">Können Sie mir helfen?</string>
+    <string name="di_muchas_gracias">Vielen Dank</string>
+    <string name="di_necesito_un_medico">Ich brauche einen Arzt</string>
+    <string name="di_no">Nicht</string>
+    <string name="di_no_gracias">Nein, danke</string>
+    <string name="di_no_hablo_espanol">Ich spreche kein Deutsch</string>
+    <string name="di_nunca">Nie</string>
+    <string name="di_pan">Brot</string>
+    <string name="di_por_favor">Bitte</string>
+    <string name="di_quetal">Wie geht es Ihnen?</string>
+    <string name="di_servilleta">Serviette</string>
+    <string name="di_si">Ja</string>
+    <string name="di_siempre">Immer</string>
+    <string name="di_soy_de_eeuu">Ich bin aus der Türkei</string>
+    <string name="di_tenedor">Gabel</string>
+    <string name="di_tren">Zug</string>
+    <string name="di_un_cafe">Ein Kaffee, bitte</string>
+    <string name="di_una_cerveza">Ein Bier, bitte</string>
+    <string name="di_una_paella">Eine Paella, bitte</string>
+    <string name="di_una_tortilla">Ein Omelette, bitte </string>
+    <string name="di_vaso">Glas</string>
+    <string name="el_bano">Wo ist die Toilette? -- 어디 화장실은?</string>
+    <string name="encantado">Nett, Sie kennenzulernen -- 만나서 반가워요</string>
+    <string name="encima">Über -- 약</string>
+    <string name="es_posible">Es könnte sein, -- 그것은 될 수</string>
+    <string name="esta_bien">Das ist OK -- 괜찮습니다</string>
+    <string name="extra_text1">이 응용 프로그램은 매우 유용합니다! \n 그것을보십시오! \n https://play.google.com/store/apps/details?id=</string>
+    <string name="gracias">Danke -- 감사합니다</string>
+    <string name="habitacion">Zimmer -- 방</string>
+    <string name="habitacion_reservada">Ich habe ein Zimmer gebucht -- 나는 방을 예약</string>
+    <string name="hasta_luego">Bis nachher-- 나중에 보자</string>
+    <string name="hasta_manana">Wir sehen uns morgen-- 내일 봐요</string>
+    <string name="hasta_pronto">Bis bald! -- 곧 보자!</string>
+    <string name="hola">Hallo -- 안녕하세요.</string>
+    <string name="hotel">Hotel -- 호텔</string>
+    <string name="hoy">Heute -- 오늘</string>
+    <string name="izquierda">Links -- 좌회전</string>
+    <string name="la_carta">Können Sie mir das Menü geben, bitte? -- 당신은 나에게 메뉴를 줄래?</string>
+    <string name="la_cuenta">Können Sie mir die Rechnung zu bringen, bitte? -- 당신은 나에게 청구서를 바랍니다 가져올 수 있습니까?</string>
+    <string name="lo_siento">Entschuldigung -- 죄송합니다</string>
+    <string name="manana">Morgen -- 아침</string>
+    <string name="me_gusta">Ich mag, dass -- 내가 좋아하는 그</string>
+    <string name="me_llamo_paul">Mein Name ist Paul -- 내 이름은 폴입니다</string>
+    <string name="me_puede_ayudar">Können Sie mir helfen? -- 당신이 나를 도울 수 있습니까?</string>
+    <string name="muchas_gracias">Vielen Dank -- 대단히 감사합니다</string>
+    <string name="necesito_un_medico">Ich brauche einen Arzt -- 의사가 필요 해요</string>
+    <string name="no">Nicht -- 아니</string>
+    <string name="no_gracias">Nein, danke -- 아니, 감사합니다</string>
+    <string name="no_hablo_espanol">Ich spreche kein Deutsch -- 나는 독일어를 구사하지 못하는</string>
+    <string name="nunca">Nie -- 어머 놀랐다</string>
+    <string name="pan">Brot -- 빵</string>
+    <string name="por_favor">Bitte -- 하십시오</string>
+    <string name="quetal">Wie geht es Ihnen? -- 어떻게 지내세요?</string>
+    <string name="servilleta">Serviette -- 냅킨</string>
+    <string name="si">Ja -- 예</string>
+    <string name="siempre">Immer -- 항상</string>
+    <string name="soy_de_eeuu">Ich bin aus der Türkei -- 나는 터키에서 왔어요</string>
+    <string name="subject1">이 응용 프로그램을 좀 봐!</string>
+    <string name="tenedor">Gabel -- 포크</string>
+    <string name="textoabout">아이콘 - 토지 \nhttp에 의해 페드로 산탄 \nIcons에 의해 개발 Mymma 소토 \nApplication에 의해 개념 http://www.icons-land.com</string>
+    <string name="toast_redir">설치 리디렉션 구글은 음성 엔진에 텍스트를 재생</string>
+    <string name="toast_set_language">설정 TTS 언어 독일어</string>
+    <string name="toast_tts_error">오류 텍스트 음성 엔진을 초기화</string>
+    <string name="toast_tts_inicializado">텍스트 음성 엔진은 초기화</string>
+    <string name="tren">Zug -- 기차</string>
+    <string name="un_cafe">Ein Kaffee, bitte -- 커피주세요</string>
+    <string name="una_cerveza">Ein Bier, bitte -- 맥주주세요</string>
+    <string name="una_paella">Eine Paella, bitte -- 빠에야주세요</string>
+    <string name="una_tortilla">Ein Omelette, bitte -- 오믈렛주세요</string>
+    <string name="vaso">Glas -- 유리</string>
+    <string name="version">버전</string>
+</resources>

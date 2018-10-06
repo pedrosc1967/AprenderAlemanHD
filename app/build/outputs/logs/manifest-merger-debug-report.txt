@@ -1,0 +1,321 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:3:1-70:12
+INJECTED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:3:1-70:12
+INJECTED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:3:1-70:12
+INJECTED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:3:1-70:12
+MERGED from [com.facebook.android:audience-network-sdk:5.0.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.0.0.aar/16cfeada890d75e1e4f609593de10404/AndroidManifest.xml:2:1-20:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/3d44615656e81846ded1af9b55ed1fbe/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-ads:10.0.1] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/play-services-ads-10.0.1.aar/b2dcb8214a10ea2580bedf1f5e4a39d3/AndroidManifest.xml:16:1-18:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:r2.4.2] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/exoplayer-dash-r2.4.2.aar/f10efc4856740a3f4e990e3ebd25681d/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:r2.4.2] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/exoplayer-core-r2.4.2.aar/221ea8bda5883915c73f68c1319b607e/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.0.1.aar/2554fff529f01283b42c2de6d0200c8c/AndroidManifest.xml:16:1-28:12
+MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-10.0.1.aar/1d964ae68f6909908011298acb700535/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/bad5a8ad9e645724e74dd95144714483/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-gass:10.0.1] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/play-services-gass-10.0.1.aar/b0049d0509967a6f4a2b13444ccb9f67/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.0.1.aar/5ded69bd6e12f5b364505f3c2814f3da/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.0.1.aar/7cc48ae12cf66bf5c748366678ec515f/AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/000373442af23788531d233ac94b27be/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/9ed8989de54e71b8cea3a50f7196e942/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/c1982f4648815e3cb18a4f14e1924949/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/fe41e69ba87a2428e4d0ca91a24e47c3/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/cedeb3d02aa1e43b77e6315569deb941/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/08d8bb11c490d5d61f74421eec284ac0/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0f15c72877d08cd7d630b1a8bdb2a737/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:3:1-70:12
+INJECTED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:3:1-70:12
+INJECTED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:3:1-70:12
+	package
+		ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:4:5-45
+		INJECTED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:3:11-69
+	android:versionCode
+		ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:5:31-54
+		INJECTED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:6:5-73
+INJECTED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:6:5-73
+INJECTED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:6:5-73
+MERGED from [com.facebook.android:audience-network-sdk:5.0.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.0.0.aar/16cfeada890d75e1e4f609593de10404/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.android:audience-network-sdk:5.0.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.0.0.aar/16cfeada890d75e1e4f609593de10404/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/3d44615656e81846ded1af9b55ed1fbe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/3d44615656e81846ded1af9b55ed1fbe/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads:10.0.1] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/play-services-ads-10.0.1.aar/b2dcb8214a10ea2580bedf1f5e4a39d3/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-ads:10.0.1] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/play-services-ads-10.0.1.aar/b2dcb8214a10ea2580bedf1f5e4a39d3/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.exoplayer:exoplayer-dash:r2.4.2] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/exoplayer-dash-r2.4.2.aar/f10efc4856740a3f4e990e3ebd25681d/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:r2.4.2] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/exoplayer-dash-r2.4.2.aar/f10efc4856740a3f4e990e3ebd25681d/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:r2.4.2] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/exoplayer-core-r2.4.2.aar/221ea8bda5883915c73f68c1319b607e/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:r2.4.2] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/exoplayer-core-r2.4.2.aar/221ea8bda5883915c73f68c1319b607e/AndroidManifest.xml:21:5-23:41
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.0.1.aar/2554fff529f01283b42c2de6d0200c8c/AndroidManifest.xml:22:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.0.1.aar/2554fff529f01283b42c2de6d0200c8c/AndroidManifest.xml:22:5-42
+MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-10.0.1.aar/1d964ae68f6909908011298acb700535/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-10.0.1.aar/1d964ae68f6909908011298acb700535/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/bad5a8ad9e645724e74dd95144714483/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/bad5a8ad9e645724e74dd95144714483/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-gass:10.0.1] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/play-services-gass-10.0.1.aar/b0049d0509967a6f4a2b13444ccb9f67/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-gass:10.0.1] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/play-services-gass-10.0.1.aar/b0049d0509967a6f4a2b13444ccb9f67/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.0.1.aar/5ded69bd6e12f5b364505f3c2814f3da/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.0.1.aar/5ded69bd6e12f5b364505f3c2814f3da/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.0.1.aar/7cc48ae12cf66bf5c748366678ec515f/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.0.1.aar/7cc48ae12cf66bf5c748366678ec515f/AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:26.1.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/000373442af23788531d233ac94b27be/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/000373442af23788531d233ac94b27be/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/9ed8989de54e71b8cea3a50f7196e942/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/9ed8989de54e71b8cea3a50f7196e942/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/c1982f4648815e3cb18a4f14e1924949/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/c1982f4648815e3cb18a4f14e1924949/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/fe41e69ba87a2428e4d0ca91a24e47c3/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/fe41e69ba87a2428e4d0ca91a24e47c3/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/cedeb3d02aa1e43b77e6315569deb941/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/cedeb3d02aa1e43b77e6315569deb941/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:26.1.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/08d8bb11c490d5d61f74421eec284ac0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/08d8bb11c490d5d61f74421eec284ac0/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0f15c72877d08cd7d630b1a8bdb2a737/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0f15c72877d08cd7d630b1a8bdb2a737/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:6:5-73
+INJECTED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:6:5-73
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/000373442af23788531d233ac94b27be/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:6:42-71
+		INJECTED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:6:15-41
+		INJECTED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml
+supports-screens
+ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:8:5-13:39
+	android:largeScreens
+		ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:8:23-50
+	android:smallScreens
+		ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:10:9-36
+	android:normalScreens
+		ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:12:9-37
+	android:xlargeScreens
+		ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:13:9-37
+	android:resizeable
+		ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:11:9-34
+	android:anyDensity
+		ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:9:9-34
+uses-permission#android.permission.INTERNET
+ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:15:5-66
+MERGED from [com.facebook.android:audience-network-sdk:5.0.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.0.0.aar/16cfeada890d75e1e4f609593de10404/AndroidManifest.xml:11:5-67
+MERGED from [com.facebook.android:audience-network-sdk:5.0.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.0.0.aar/16cfeada890d75e1e4f609593de10404/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.0.1.aar/2554fff529f01283b42c2de6d0200c8c/AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.0.1.aar/2554fff529f01283b42c2de6d0200c8c/AndroidManifest.xml:19:5-66
+	android:name
+		ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:15:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:16:5-78
+MERGED from [com.facebook.android:audience-network-sdk:5.0.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.0.0.aar/16cfeada890d75e1e4f609593de10404/AndroidManifest.xml:12:5-79
+MERGED from [com.facebook.android:audience-network-sdk:5.0.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.0.0.aar/16cfeada890d75e1e4f609593de10404/AndroidManifest.xml:12:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.0.1.aar/2554fff529f01283b42c2de6d0200c8c/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.0.1.aar/2554fff529f01283b42c2de6d0200c8c/AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:16:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:17:5-78
+	android:name
+		ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:17:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:18:5-81
+	android:name
+		ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:18:22-78
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:19:22-75
+uses-permission#com.android.browser.permission.READ_HISTORY_BOOKMARKS
+ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:20:5-93
+	android:name
+		ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:20:22-90
+uses-permission#com.android.browser.permission.WRITE_HISTORY_BOOKMARKS
+ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:21:5-94
+	android:name
+		ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:21:22-91
+uses-permission#com.android.launcher.permission.INSTALL_SHORTCUT
+ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:22:5-88
+	android:name
+		ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:22:22-85
+uses-permission#com.android.launcher.permission.UNINSTALL_SHORTCUT
+ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:23:5-90
+	android:name
+		ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:23:22-87
+application
+ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:25:5-68:19
+MERGED from [com.facebook.android:audience-network-sdk:5.0.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.0.0.aar/16cfeada890d75e1e4f609593de10404/AndroidManifest.xml:14:5-18:19
+MERGED from [com.facebook.android:audience-network-sdk:5.0.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.0.0.aar/16cfeada890d75e1e4f609593de10404/AndroidManifest.xml:14:5-18:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/3d44615656e81846ded1af9b55ed1fbe/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/3d44615656e81846ded1af9b55ed1fbe/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.0.1.aar/2554fff529f01283b42c2de6d0200c8c/AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.0.1.aar/2554fff529f01283b42c2de6d0200c8c/AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-10.0.1.aar/1d964ae68f6909908011298acb700535/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-10.0.1.aar/1d964ae68f6909908011298acb700535/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/bad5a8ad9e645724e74dd95144714483/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/bad5a8ad9e645724e74dd95144714483/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-gass:10.0.1] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/play-services-gass-10.0.1.aar/b0049d0509967a6f4a2b13444ccb9f67/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gass:10.0.1] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/play-services-gass-10.0.1.aar/b0049d0509967a6f4a2b13444ccb9f67/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.0.1.aar/5ded69bd6e12f5b364505f3c2814f3da/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.0.1.aar/5ded69bd6e12f5b364505f3c2814f3da/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.0.1.aar/7cc48ae12cf66bf5c748366678ec515f/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.0.1.aar/7cc48ae12cf66bf5c748366678ec515f/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/000373442af23788531d233ac94b27be/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/000373442af23788531d233ac94b27be/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/9ed8989de54e71b8cea3a50f7196e942/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/9ed8989de54e71b8cea3a50f7196e942/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/c1982f4648815e3cb18a4f14e1924949/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/c1982f4648815e3cb18a4f14e1924949/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/fe41e69ba87a2428e4d0ca91a24e47c3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/fe41e69ba87a2428e4d0ca91a24e47c3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/cedeb3d02aa1e43b77e6315569deb941/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/cedeb3d02aa1e43b77e6315569deb941/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/08d8bb11c490d5d61f74421eec284ac0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/08d8bb11c490d5d61f74421eec284ac0/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0f15c72877d08cd7d630b1a8bdb2a737/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0f15c72877d08cd7d630b1a8bdb2a737/AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:26:9-41
+	android:icon
+		ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:25:18-54
+	android:allowBackup
+		ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:27:9-35
+meta-data#com.google.android.gms.version
+ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:29:9-30:69
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.0.1.aar/7cc48ae12cf66bf5c748366678ec515f/AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.0.1.aar/7cc48ae12cf66bf5c748366678ec515f/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:30:13-66
+	android:name
+		ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:29:20-65
+activity#com.aplanetbit.learn.german.hq.AprenderAlemanHD
+ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:32:9-37:20
+	android:label
+		ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:32:19-51
+	android:name
+		ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:32:52-114
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:35:27-74
+activity#com.google.android.gms.ads.AdActivity
+ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:40:9-42:64
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.0.1.aar/2554fff529f01283b42c2de6d0200c8c/AndroidManifest.xml:25:9-232
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.0.1.aar/2554fff529f01283b42c2de6d0200c8c/AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:41:13-122
+	android:theme
+		ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:42:13-61
+	android:name
+		ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:40:19-71
+activity#com.apptracker.android.module.AppModuleActivity
+ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:44:9-47:20
+	android:hardwareAccelerated
+		ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:46:13-48
+	android:configChanges
+		ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:44:19-89
+	android:name
+		ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:45:13-75
+meta-data#presage_key
+ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:50:9-81
+	android:value
+		ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:50:47-79
+	android:name
+		ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:50:20-46
+service#io.presage.services.PresageServiceImp
+ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:51:9-72
+	android:name
+		ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:51:18-70
+activity#io.presage.activities.PresageActivity
+ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:52:9-59:20
+	android:label
+		ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:54:13-45
+	android:theme
+		ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:54:46-94
+	android:name
+		ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:53:13-65
+intent-filter#action:name:io.presage.intent.action.LAUNCH_WEBVIEW+category:name:android.intent.category.DEFAULT
+ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:55:13-58:29
+action#io.presage.intent.action.LAUNCH_WEBVIEW
+ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:56:17-82
+	android:name
+		ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:56:25-79
+category#android.intent.category.DEFAULT
+ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:57:17-76
+	android:name
+		ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:57:27-73
+receiver#io.presage.receivers.BootReceiver
+ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:60:9-66:20
+	android:name
+		ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:60:19-67
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.DATE_CHANGED+action:name:io.presage.receivers.BootReceiver.RESTART_SERVICE
+ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:61:13-65:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:62:17-78
+	android:name
+		ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:62:25-76
+action#android.intent.action.DATE_CHANGED
+ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:63:17-76
+	android:name
+		ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:63:25-74
+action#io.presage.receivers.BootReceiver.RESTART_SERVICE
+ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:64:17-91
+	android:name
+		ADDED from /Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:64:25-89
+activity#com.facebook.ads.AudienceNetworkActivity
+ADDED from [com.facebook.android:audience-network-sdk:5.0.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.0.0.aar/16cfeada890d75e1e4f609593de10404/AndroidManifest.xml:15:9-17:77
+	android:configChanges
+		ADDED from [com.facebook.android:audience-network-sdk:5.0.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.0.0.aar/16cfeada890d75e1e4f609593de10404/AndroidManifest.xml:17:13-74
+	android:name
+		ADDED from [com.facebook.android:audience-network-sdk:5.0.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/audience-network-sdk-5.0.0.aar/16cfeada890d75e1e4f609593de10404/AndroidManifest.xml:16:13-68
+meta-data#android.support.VERSION
+ADDED from [com.android.support:recyclerview-v7:26.1.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/3d44615656e81846ded1af9b55ed1fbe/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/000373442af23788531d233ac94b27be/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/000373442af23788531d233ac94b27be/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/9ed8989de54e71b8cea3a50f7196e942/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/9ed8989de54e71b8cea3a50f7196e942/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/c1982f4648815e3cb18a4f14e1924949/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/c1982f4648815e3cb18a4f14e1924949/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/fe41e69ba87a2428e4d0ca91a24e47c3/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/fe41e69ba87a2428e4d0ca91a24e47c3/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/cedeb3d02aa1e43b77e6315569deb941/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/cedeb3d02aa1e43b77e6315569deb941/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/08d8bb11c490d5d61f74421eec284ac0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/08d8bb11c490d5d61f74421eec284ac0/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:recyclerview-v7:26.1.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/3d44615656e81846ded1af9b55ed1fbe/AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:recyclerview-v7:26.1.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/3d44615656e81846ded1af9b55ed1fbe/AndroidManifest.xml:24:13-51
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.0.1.aar/2554fff529f01283b42c2de6d0200c8c/AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.0.1.aar/2554fff529f01283b42c2de6d0200c8c/AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-10.0.1.aar/2554fff529f01283b42c2de6d0200c8c/AndroidManifest.xml:26:19-91
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.0.1] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/bad5a8ad9e645724e74dd95144714483/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/bad5a8ad9e645724e74dd95144714483/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/bad5a8ad9e645724e74dd95144714483/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/bad5a8ad9e645724e74dd95144714483/AndroidManifest.xml:19:19-85
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0f15c72877d08cd7d630b1a8bdb2a737/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0f15c72877d08cd7d630b1a8bdb2a737/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/pedrosantangelocalvo/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/0f15c72877d08cd7d630b1a8bdb2a737/AndroidManifest.xml:26:13-58

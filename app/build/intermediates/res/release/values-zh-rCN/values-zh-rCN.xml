@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string name="Acerca">大约</string>
+    <string name="Otras_apps">其他应用程序</string>
+    <string name="Rate">评估</string>
+    <string name="Salir">结束</string>
+    <string name="a_veces">Manchmal -- 有时</string>
+    <string name="abajo">Nach unten -- 向下</string>
+    <string name="about">大约</string>
+    <string name="adios">Auf Wiedersehen -- 再见</string>
+    <string name="agua">Wasser -- 水</string>
+    <string name="app_name">学习德语HD</string>
+    <string name="arriba">Nach oben -- 向上</string>
+    <string name="autobus">Bus -- 总线</string>
+    <string name="avion">Flugzeug -- 飞机</string>
+    <string name="ayer">Gestern -- 昨天</string>
+    <string name="bicicleta">Fahrrad -- 自行车</string>
+    <string name="bien_gracias">Gut, danke -- 好了，谢谢你</string>
+    <string name="buen_provecho">Bon appetit -- 个饱</string>
+    <string name="buenas_noches">Guten Nacht-- 晚安</string>
+    <string name="buenas_tardes">Guten Abend-- 晚上好</string>
+    <string name="buenosdias">Guten Morgen-- 早安</string>
+    <string name="camarero">Kellner -- 服务员</string>
+    <string name="cena">Abendessen -- 晚餐</string>
+    <string name="centro">Mitte -- 中心</string>
+    <string name="coche">Auto -- 汽车</string>
+    <string name="comida">Mittagessen -- 午餐</string>
+    <!-- From: file:/Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-zh-rCN/common_strings.xml -->
+    <eat-comment/>
+    <string msgid="6428604800157361567" name="common_android_wear_notification_needs_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g>需要更新 Android Wear 应用才能正常运行。"</string>
+    <string msgid="2453027084525739603" name="common_android_wear_update_text">"只有更新 Android Wear 应用后，<ns1:g id="APP_NAME">%1$s</ns1:g>才能正常运行。"</string>
+    <string msgid="1366439133145190222" name="common_android_wear_update_title">"更新Android Wear"</string>
+    <string msgid="6534628256897874213" name="common_google_play_services_api_unavailable_text">"运行<ns1:g id="APP_NAME">%1$s</ns1:g>所需的一项或多项 Google Play 服务目前无法使用。请与开发者联系以寻求帮助。"</string>
+    <string msgid="4181637455539816337" name="common_google_play_services_enable_button">"启用Google Play服务"</string>
+    <string msgid="4896236883690196080" name="common_google_play_services_enable_text">"您必须先启用 Google Play 服务，然后才能运行<ns1:g id="APP_NAME">%1$s</ns1:g>。"</string>
+    <string msgid="529078775174559253" name="common_google_play_services_enable_title">"启用Google Play服务"</string>
+    <string msgid="2443362625939284971" name="common_google_play_services_error_notification_requested_by_msg">"<ns1:g id="APP_NAME">%1$s</ns1:g>发出的请求"</string>
+    <string msgid="8515591849428043265" name="common_google_play_services_install_button">"获取Google Play服务"</string>
+    <string msgid="8836325110837822534" name="common_google_play_services_install_text_phone">"您的手机没有安装 Google Play 服务，因此无法运行<ns1:g id="APP_NAME">%1$s</ns1:g>。"</string>
+    <string msgid="542176290824754127" name="common_google_play_services_install_text_tablet">"您的平板电脑没有安装 Google Play 服务，因此无法运行<ns1:g id="APP_NAME">%1$s</ns1:g>。"</string>
+    <string msgid="26645092511305524" name="common_google_play_services_install_title">"获取Google Play服务"</string>
+    <string msgid="4983316348021735578" name="common_google_play_services_invalid_account_text">"此设备上不存在指定的帐户，请选择其他帐户。"</string>
+    <string msgid="1066672360770936753" name="common_google_play_services_invalid_account_title">"无效帐户"</string>
+    <string msgid="2583358409598976717" name="common_google_play_services_needs_enabling_title">"启用Google Play服务后才能运行应用。"</string>
+    <string msgid="9038847255613537209" name="common_google_play_services_network_error_text">"您必须有数据网络连接才能接入Google Play服务。"</string>
+    <string msgid="3827284619958211114" name="common_google_play_services_network_error_title">"网络错误"</string>
+    <string msgid="1388129345631079938" name="common_google_play_services_notification_needs_update_title">"更新Google Play服务后才能运行应用。"</string>
+    <string msgid="1852570676146674985" name="common_google_play_services_notification_ticker">"Google Play服务出错"</string>
+    <string msgid="5194079840165204725" name="common_google_play_services_sign_in_failed_text">"登录该帐户时出错。请选择其他帐户。"</string>
+    <string msgid="8164948898147532159" name="common_google_play_services_sign_in_failed_title">"登录失败"</string>
+    <string msgid="4762332809710093730" name="common_google_play_services_unknown_issue">"Google Play服务出现未知问题。"</string>
+    <string msgid="7682982632307307938" name="common_google_play_services_unsupported_text">"要运行<ns1:g id="APP_NAME">%1$s</ns1:g>，必须先启用 Google Play 服务，但您的设备目前不支持该服务。请与制造商联系以寻求帮助。"</string>
+    <string msgid="6334768798839376943" name="common_google_play_services_unsupported_title">"Google Play服务"</string>
+    <string msgid="8932944190611227642" name="common_google_play_services_update_button">"更新"</string>
+    <string msgid="5709479369299147668" name="common_google_play_services_update_text">"您必须先更新 Google Play 服务，然后才能运行<ns1:g id="APP_NAME">%1$s</ns1:g>。"</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">"更新Google Play服务"</string>
+    <string msgid="2201289642219771610" name="common_google_play_services_updating_text">"Google Play 服务当前正在更新，因此您无法运行<ns1:g id="APP_NAME">%1$s</ns1:g>。"</string>
+    <string msgid="815008177440683245" name="common_google_play_services_updating_title">"Google Play 服务正在更新"</string>
+    <string msgid="411506735369601515" name="common_open_on_phone">"在手机上打开"</string>
+    <string msgid="9071884888741449141" name="common_signin_button_text">"登录"</string>
+    <string msgid="2429381841831957106" name="common_signin_button_text_long">"使用Google帐户登录"</string>
+    <!-- From: file:/Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/res/values-zh-rCN/strings.xml -->
+    <eat-comment/>
+    <string name="como_se_llama">Wie ist Ihr Name? -- 你叫什么名字？</string>
+    <string name="cuanto_cuesta">Wie viel ist es? -- 多少钱？</string>
+    <string name="cuchara">Löffel -- 勺</string>
+    <string name="cuchillo">Messer -- 刀</string>
+    <string name="de_donde_eres">Woher kommen Sie? -- 你是哪里人？</string>
+    <string name="de_nada">Bitte -- 诚挚邀请您</string>
+    <string name="debajo">Unter -- 下</string>
+    <string name="delante">Front -- 前</string>
+    <string name="derecha">Recht -- 右边</string>
+    <string name="desayuno">Desayuno -- Frühstück</string>
+    <string name="detras">Zurück -- 后面</string>
+    <string name="di_a_veces">Manchmal</string>
+    <string name="di_abajo">Nach unten</string>
+    <string name="di_adios">Auf Wiedersehen</string>
+    <string name="di_agua">Wasser</string>
+    <string name="di_arriba">Nach oben</string>
+    <string name="di_autobus">Bus</string>
+    <string name="di_avion">Flugzeug</string>
+    <string name="di_ayer">Gestern</string>
+    <string name="di_bicicleta">Fahrrad</string>
+    <string name="di_bien_gracias">Gut, danke</string>
+    <string name="di_buen_provecho">Bon appetit</string>
+    <string name="di_buenas_noches">Guten Nacht</string>
+    <string name="di_buenas_tardes">Guten Abend</string>
+    <string name="di_buenos_dias">Guten Morgen</string>
+    <string name="di_camarero">Kellner</string>
+    <string name="di_cena">Abendessen</string>
+    <string name="di_centro">Mitte</string>
+    <string name="di_coche">Auto</string>
+    <string name="di_comida">Mittagessen</string>
+    <string name="di_como_se_llama">Wie ist Ihr Name?</string>
+    <string name="di_cuanto_cuesta">Wie viel ist es?</string>
+    <string name="di_cuchara">Löffel</string>
+    <string name="di_cuchillo">Messer</string>
+    <string name="di_de_donde_eres">Woher kommen Sie?</string>
+    <string name="di_de_nada">Bitte</string>
+    <string name="di_debajo">Unter</string>
+    <string name="di_delante">Front</string>
+    <string name="di_derecha">Recht</string>
+    <string name="di_desayuno">Frühstück</string>
+    <string name="di_detras">Zurück</string>
+    <string name="di_el_bano">Wo ist die Toilette?</string>
+    <string name="di_encantado">Nett, Sie kennenzulernen</string>
+    <string name="di_encima">Über</string>
+    <string name="di_es_posible">Es könnte sein,</string>
+    <string name="di_esta_bien">Das ist OK</string>
+    <string name="di_gracias">Danke</string>
+    <string name="di_habitacion">Zimmer</string>
+    <string name="di_habitacion_reservada">Ich habe ein Zimmer gebucht</string>
+    <string name="di_hasta_luego">Bis nachher</string>
+    <string name="di_hasta_manana">Wir sehen uns morgen</string>
+    <string name="di_hasta_pronto">Bis bald!</string>
+    <string name="di_hola">Hallo</string>
+    <string name="di_hotel">Hotel</string>
+    <string name="di_hoy">Heute</string>
+    <string name="di_izquierda">Links</string>
+    <string name="di_la_carta">Können Sie mir das Menü geben, bitte?</string>
+    <string name="di_la_cuenta">Können Sie mir die Rechnung zu bringen, bitte?</string>
+    <string name="di_lo_siento">Entschuldigung</string>
+    <string name="di_manana">Morgen</string>
+    <string name="di_me_gusta">Ich mag, dass</string>
+    <string name="di_me_llamo_paul">Mein Name ist Paul</string>
+    <string name="di_me_puede_ayudar">Können Sie mir helfen?</string>
+    <string name="di_muchas_gracias">Vielen Dank</string>
+    <string name="di_necesito_un_medico">Ich brauche einen Arzt</string>
+    <string name="di_no">Nicht</string>
+    <string name="di_no_gracias">Nein, danke</string>
+    <string name="di_no_hablo_espanol">Ich spreche kein Deutsch</string>
+    <string name="di_nunca">Nie</string>
+    <string name="di_pan">Brot</string>
+    <string name="di_por_favor">Bitte</string>
+    <string name="di_quetal">Wie geht es Ihnen?</string>
+    <string name="di_servilleta">Serviette</string>
+    <string name="di_si">Ja</string>
+    <string name="di_siempre">Immer</string>
+    <string name="di_soy_de_eeuu">Ich bin aus der Türkei</string>
+    <string name="di_tenedor">Gabel</string>
+    <string name="di_tren">Zug</string>
+    <string name="di_un_cafe">Ein Kaffee, bitte</string>
+    <string name="di_una_cerveza">Ein Bier, bitte</string>
+    <string name="di_una_paella">Eine Paella, bitte</string>
+    <string name="di_una_tortilla">Ein Omelette, bitte </string>
+    <string name="di_vaso">Glas</string>
+    <string name="el_bano">Wo ist die Toilette? -- 洗手间在哪里？</string>
+    <string name="encantado">Nett, Sie kennenzulernen -- 很高兴认识你</string>
+    <string name="encima">Über -- 关于</string>
+    <string name="es_posible">Es könnte sein, -- 其能</string>
+    <string name="esta_bien">Das ist OK -- 这是确定的</string>
+    <string name="extra_text1">这个程序是非常有用的！ \n 试试吧！ \n https://play.google.com/store/apps/details?id=</string>
+    <string name="gracias">Danke -- 谢谢</string>
+    <string name="habitacion">Zimmer -- 房间</string>
+    <string name="habitacion_reservada">Ich habe ein Zimmer gebucht -- 我订的房间</string>
+    <string name="hasta_luego">Bis nachher-- 回头见</string>
+    <string name="hasta_manana">Wir sehen uns morgen-- 明天见</string>
+    <string name="hasta_pronto">Bis bald! -- 看到您的到来！</string>
+    <string name="hola">Hallo -- 你好</string>
+    <string name="hotel">Hotel -- 旅馆</string>
+    <string name="hoy">Heute -- 今天</string>
+    <string name="izquierda">Links -- 左</string>
+    <string name="la_carta">Können Sie mir das Menü geben, bitte? -- 你可以给我的菜单吗？</string>
+    <string name="la_cuenta">Können Sie mir die Rechnung zu bringen, bitte? -- 你可以把我的账单吗？</string>
+    <string name="lo_siento">Entschuldigung -- 遗憾</string>
+    <string name="manana">Morgen -- 早晨</string>
+    <string name="me_gusta">Ich mag, dass -- 我喜欢</string>
+    <string name="me_llamo_paul">Mein Name ist Paul -- 我的名字是保罗</string>
+    <string name="me_puede_ayudar">Können Sie mir helfen? -- 你能帮助我吗？</string>
+    <string name="muchas_gracias">Vielen Dank -- 非常感谢</string>
+    <string name="necesito_un_medico">Ich brauche einen Arzt -- 我需要一个医生</string>
+    <string name="no">Nicht -- 不</string>
+    <string name="no_gracias">Nein, danke -- 不，谢谢</string>
+    <string name="no_hablo_espanol">Ich spreche kein Deutsch -- 我不会说德语</string>
+    <string name="nunca">Nie -- 从来没有</string>
+    <string name="pan">Brot -- 面包</string>
+    <string name="por_favor">Bitte -- 请</string>
+    <string name="quetal">Wie geht es Ihnen? -- 你怎么样？</string>
+    <string name="servilleta">Serviette -- 餐巾</string>
+    <string name="si">Ja -- 是的</string>
+    <string name="siempre">Immer -- 总是</string>
+    <string name="soy_de_eeuu">Ich bin aus der Türkei -- 我是来自土耳其</string>
+    <string name="subject1">看看这个程序！</string>
+    <string name="tenedor">Gabel -- 叉</string>
+    <string name="textoabout">通过Mymma索托\nApplication概念佩德罗桑坦戈罗\nIcons开发的图标 - 土地\nhttp://www.icons-land.com</string>
+    <string name="toast_redir">重定向安装谷歌播放文本到语音引擎</string>
+    <string name="toast_set_language">设置TTS语言德文</string>
+    <string name="toast_tts_error">错误初始化文本到语音引擎</string>
+    <string name="toast_tts_inicializado">文本到语音引擎被初始化</string>
+    <string name="tren">Zug -- 火车</string>
+    <string name="un_cafe">Ein Kaffee, bitte -- 咖啡，请</string>
+    <string name="una_cerveza">Ein Bier, bitte -- 啤酒，请</string>
+    <string name="una_paella">Eine Paella, bitte -- 海鲜饭，请</string>
+    <string name="una_tortilla">Ein Omelette, bitte -- 煎蛋卷，请</string>
+    <string name="vaso">Glas -- 玻璃</string>
+    <string name="version">版本</string>
+</resources>

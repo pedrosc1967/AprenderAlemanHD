@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- From: file:/Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/res/values-vi/strings.xml -->
+    <eat-comment/>
+    <string name="Acerca">về</string>
+    <string name="Otras_apps">Phần mềm khác</string>
+    <string name="Rate">đánh giá</string>
+    <string name="Salir">Cuối</string>
+    <string name="a_veces">Manchmal -- Đôi khi</string>
+    <string name="abajo">Nach unten -- Xuống</string>
+    <string name="about">về</string>
+    <string name="adios">Auf Wiedersehen -- Tạm biệt</string>
+    <string name="agua">Wasser -- Nước</string>
+    <string name="app_name">Học tiếng Đức HD</string>
+    <string name="arriba">Nach oben -- Lên</string>
+    <string name="autobus">Bus -- Xe buýt</string>
+    <string name="avion">Flugzeug -- Phi cơ</string>
+    <string name="ayer">Gestern -- Hôm qua</string>
+    <string name="bicicleta">Fahrrad -- Xe đạp</string>
+    <string name="bien_gracias">Gut, danke -- Vâng, cảm ơn bạn</string>
+    <string name="buen_provecho">Bon appetit -- Bon Appetit</string>
+    <string name="buenas_noches">Guten Nacht-- Tốt đêm</string>
+    <string name="buenas_tardes">Guten Abend-- Chào buổi tối</string>
+    <string name="buenosdias">Guten Morgen-- Chào buổi sáng</string>
+    <string name="camarero">Kellner -- Anh ơi</string>
+    <string name="cena">Abendessen -- Bữa ăn tối</string>
+    <string name="centro">Mitte -- Trung tâm</string>
+    <string name="coche">Auto -- Xe hơi</string>
+    <string name="comida">Mittagessen -- Bưa trưa</string>
+    <!-- From: file:/Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/values-vi/common_strings.xml -->
+    <eat-comment/>
+    <string msgid="6428604800157361567" name="common_android_wear_notification_needs_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> yêu cầu phải cập nhật lên ứng dụng Android Wear."</string>
+    <string msgid="2453027084525739603" name="common_android_wear_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> sẽ không chạy trừ khi bạn cập nhật ứng dụng Android Wear."</string>
+    <string msgid="1366439133145190222" name="common_android_wear_update_title">"Cập nhật Android Wear"</string>
+    <string msgid="6534628256897874213" name="common_google_play_services_api_unavailable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> yêu cầu một hoặc nhiều Dịch vụ của Google Play hiện không có sẵn. Vui lòng liên hệ với nhà phát triển để được hỗ trợ."</string>
+    <string msgid="4181637455539816337" name="common_google_play_services_enable_button">"Bật dịch vụ của Google Play"</string>
+    <string msgid="4896236883690196080" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> sẽ không hoạt động trừ khi bạn kích hoạt Dịch vụ của Google Play."</string>
+    <string msgid="529078775174559253" name="common_google_play_services_enable_title">"Bật dịch vụ của Google Play"</string>
+    <string msgid="2443362625939284971" name="common_google_play_services_error_notification_requested_by_msg">"Được yêu cầu bởi <ns1:g id="APP_NAME">%1$s</ns1:g>"</string>
+    <string msgid="8515591849428043265" name="common_google_play_services_install_button">"Cài đặt dịch vụ của Google Play"</string>
+    <string msgid="8836325110837822534" name="common_google_play_services_install_text_phone">"<ns1:g id="APP_NAME">%1$s</ns1:g> sẽ không chạy khi không có Dịch vụ của Google Play bị thiếu trên điện thoại của bạn."</string>
+    <string msgid="542176290824754127" name="common_google_play_services_install_text_tablet">"<ns1:g id="APP_NAME">%1$s</ns1:g> sẽ không chạy khi không có Dịch vụ của Google Play bị thiếu trên máy tính bảng của bạn."</string>
+    <string msgid="26645092511305524" name="common_google_play_services_install_title">"Cài đặt dịch vụ của Google Play"</string>
+    <string msgid="4983316348021735578" name="common_google_play_services_invalid_account_text">"Tài khoản đã chỉ định không tồn tại trên thiết bị này. Vui lòng chọn một tài khoản khác."</string>
+    <string msgid="1066672360770936753" name="common_google_play_services_invalid_account_title">"Tài khoản không hợp lệ"</string>
+    <string msgid="2583358409598976717" name="common_google_play_services_needs_enabling_title">"Một ứng dụng yêu cầu bật các dịch vụ của Google Play."</string>
+    <string msgid="9038847255613537209" name="common_google_play_services_network_error_text">"Cần có kết nối dữ liệu để kết nối với các dịch vụ của Google Play."</string>
+    <string msgid="3827284619958211114" name="common_google_play_services_network_error_title">"Lỗi mạng"</string>
+    <string msgid="1388129345631079938" name="common_google_play_services_notification_needs_update_title">"Một ứng dụng yêu cầu cập nhật đối với các dịch vụ của Google Play."</string>
+    <string msgid="1852570676146674985" name="common_google_play_services_notification_ticker">"Lỗi dịch vụ của Google Play"</string>
+    <string msgid="5194079840165204725" name="common_google_play_services_sign_in_failed_text">"Lỗi khi đăng nhập vào tài khoản được chỉ định. Vui lòng chọn một tài khoản khác."</string>
+    <string msgid="8164948898147532159" name="common_google_play_services_sign_in_failed_title">"Đăng nhập không thành công"</string>
+    <string msgid="4762332809710093730" name="common_google_play_services_unknown_issue">"Sự cố không xác định với dịch vụ của Google Play."</string>
+    <string msgid="7682982632307307938" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> chạy trên Dịch vụ của Google Play không được thiết bị của bạn hỗ trợ. Liên hệ với nhà sản xuất để được hỗ trợ."</string>
+    <string msgid="6334768798839376943" name="common_google_play_services_unsupported_title">"Dịch vụ của Google Play"</string>
+    <string msgid="8932944190611227642" name="common_google_play_services_update_button">"Cập nhật"</string>
+    <string msgid="5709479369299147668" name="common_google_play_services_update_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> sẽ không chạy trừ khi bạn cập nhật Dịch vụ của Google Play."</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">"Cập nhật dịch vụ của Google Play"</string>
+    <string msgid="2201289642219771610" name="common_google_play_services_updating_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> sẽ không chạy khi không có Dịch vụ của Google Play đang cập nhật."</string>
+    <string msgid="815008177440683245" name="common_google_play_services_updating_title">"Dịch vụ của Google Play đang cập nhật"</string>
+    <string msgid="411506735369601515" name="common_open_on_phone">"Mở trên điện thoại"</string>
+    <string msgid="9071884888741449141" name="common_signin_button_text">"Đăng nhập"</string>
+    <string msgid="2429381841831957106" name="common_signin_button_text_long">"Đăng nhập bằng Google"</string>
+    <!-- From: file:/Users/pedrosantangelocalvo/StudioProjects/AprenderAlemanHD/app/src/main/res/values-vi/strings.xml -->
+    <eat-comment/>
+    <string name="como_se_llama">Wie ist Ihr Name? -- Tên của bạn là gì?</string>
+    <string name="cuanto_cuesta">Wie viel ist es? -- Bao nhiêu là nó?</string>
+    <string name="cuchara">Löffel -- Spoon</string>
+    <string name="cuchillo">Messer -- Dao</string>
+    <string name="de_donde_eres">Woher kommen Sie? -- Bạn đến từ đâu?</string>
+    <string name="de_nada">Bitte -- Bạn đang thân ái mời</string>
+    <string name="debajo">Unter -- Dưới</string>
+    <string name="delante">Front -- Trước</string>
+    <string name="derecha">Recht -- Ngay</string>
+    <string name="desayuno">Desayuno -- Frühstück</string>
+    <string name="detras">Zurück -- Lưng</string>
+    <string name="di_a_veces">Manchmal</string>
+    <string name="di_abajo">Nach unten</string>
+    <string name="di_adios">Auf Wiedersehen</string>
+    <string name="di_agua">Wasser</string>
+    <string name="di_arriba">Nach oben</string>
+    <string name="di_autobus">Bus</string>
+    <string name="di_avion">Flugzeug</string>
+    <string name="di_ayer">Gestern</string>
+    <string name="di_bicicleta">Fahrrad</string>
+    <string name="di_bien_gracias">Gut, danke</string>
+    <string name="di_buen_provecho">Bon appetit</string>
+    <string name="di_buenas_noches">Guten Nacht</string>
+    <string name="di_buenas_tardes">Guten Abend</string>
+    <string name="di_buenos_dias">Guten Morgen</string>
+    <string name="di_camarero">Kellner</string>
+    <string name="di_cena">Abendessen</string>
+    <string name="di_centro">Mitte</string>
+    <string name="di_coche">Auto</string>
+    <string name="di_comida">Mittagessen</string>
+    <string name="di_como_se_llama">Wie ist Ihr Name?</string>
+    <string name="di_cuanto_cuesta">Wie viel ist es?</string>
+    <string name="di_cuchara">Löffel</string>
+    <string name="di_cuchillo">Messer</string>
+    <string name="di_de_donde_eres">Woher kommen Sie?</string>
+    <string name="di_de_nada">Bitte</string>
+    <string name="di_debajo">Unter</string>
+    <string name="di_delante">Front</string>
+    <string name="di_derecha">Recht</string>
+    <string name="di_desayuno">Frühstück</string>
+    <string name="di_detras">Zurück</string>
+    <string name="di_el_bano">Wo ist die Toilette?</string>
+    <string name="di_encantado">Nett, Sie kennenzulernen</string>
+    <string name="di_encima">Über</string>
+    <string name="di_es_posible">Es könnte sein,</string>
+    <string name="di_esta_bien">Das ist OK</string>
+    <string name="di_gracias">Danke</string>
+    <string name="di_habitacion">Zimmer</string>
+    <string name="di_habitacion_reservada">Ich habe ein Zimmer gebucht</string>
+    <string name="di_hasta_luego">Bis nachher</string>
+    <string name="di_hasta_manana">Wir sehen uns morgen</string>
+    <string name="di_hasta_pronto">Bis bald!</string>
+    <string name="di_hola">Hallo</string>
+    <string name="di_hotel">Hotel</string>
+    <string name="di_hoy">Heute</string>
+    <string name="di_izquierda">Links</string>
+    <string name="di_la_carta">Können Sie mir das Menü geben, bitte?</string>
+    <string name="di_la_cuenta">Können Sie mir die Rechnung zu bringen, bitte?</string>
+    <string name="di_lo_siento">Entschuldigung</string>
+    <string name="di_manana">Morgen</string>
+    <string name="di_me_gusta">Ich mag, dass</string>
+    <string name="di_me_llamo_paul">Mein Name ist Paul</string>
+    <string name="di_me_puede_ayudar">Können Sie mir helfen?</string>
+    <string name="di_muchas_gracias">Vielen Dank</string>
+    <string name="di_necesito_un_medico">Ich brauche einen Arzt</string>
+    <string name="di_no">Nicht</string>
+    <string name="di_no_gracias">Nein, danke</string>
+    <string name="di_no_hablo_espanol">Ich spreche kein Deutsch</string>
+    <string name="di_nunca">Nie</string>
+    <string name="di_pan">Brot</string>
+    <string name="di_por_favor">Bitte</string>
+    <string name="di_quetal">Wie geht es Ihnen?</string>
+    <string name="di_servilleta">Serviette</string>
+    <string name="di_si">Ja</string>
+    <string name="di_siempre">Immer</string>
+    <string name="di_soy_de_eeuu">Ich bin aus der Türkei</string>
+    <string name="di_tenedor">Gabel</string>
+    <string name="di_tren">Zug</string>
+    <string name="di_un_cafe">Ein Kaffee, bitte</string>
+    <string name="di_una_cerveza">Ein Bier, bitte</string>
+    <string name="di_una_paella">Eine Paella, bitte</string>
+    <string name="di_una_tortilla">Ein Omelette, bitte </string>
+    <string name="di_vaso">Glas</string>
+    <string name="el_bano">Wo ist die Toilette? -- Mà là nhà vệ sinh?</string>
+    <string name="encantado">Nett, Sie kennenzulernen -- Nice to meet you</string>
+    <string name="encima">Über -- Về</string>
+    <string name="es_posible">Es könnte sein, -- Nó có thể là</string>
+    <string name="esta_bien">Das ist OK -- Đó là OK</string>
+    <string name="extra_text1">Ứng dụng này là rất hữu ích! \n Hãy thử nó! \n https://play.google.com/store/apps/details?id=</string>
+    <string name="gracias">Danke -- Cảm ơn bạn</string>
+    <string name="habitacion">Zimmer -- Phòng</string>
+    <string name="habitacion_reservada">Ich habe ein Zimmer gebucht -- Tôi đặt một phòng</string>
+    <string name="hasta_luego">Bis nachher-- Hẹn gặp lại sau</string>
+    <string name="hasta_manana">Wir sehen uns morgen-- Hẹn gặp lại ngày mai</string>
+    <string name="hasta_pronto">Bis bald! -- Hẹn gặp lại!</string>
+    <string name="hola">Hallo -- Chào</string>
+    <string name="hotel">Hotel -- Khách sạn</string>
+    <string name="hoy">Heute -- Hôm nay</string>
+    <string name="izquierda">Links -- Trái</string>
+    <string name="la_carta">Können Sie mir das Menü geben, bitte? -- Bạn có thể cho tôi menu, xin vui lòng?</string>
+    <string name="la_cuenta">Können Sie mir die Rechnung zu bringen, bitte? -- Bạn có thể mang lại cho tôi những hóa đơn, xin vui lòng?</string>
+    <string name="lo_siento">Entschuldigung -- Xin lỗi</string>
+    <string name="manana">Morgen -- Buổi sáng</string>
+    <string name="me_gusta">Ich mag, dass -- Tôi thích điều đó</string>
+    <string name="me_llamo_paul">Mein Name ist Paul -- Tên tôi là Paul</string>
+    <string name="me_puede_ayudar">Können Sie mir helfen? -- Bạn có thể giúp tôi?</string>
+    <string name="muchas_gracias">Vielen Dank -- Cảm ơn bạn rất nhiều</string>
+    <string name="necesito_un_medico">Ich brauche einen Arzt -- Tôi cần một bác sĩ</string>
+    <string name="no">Nicht -- Không</string>
+    <string name="no_gracias">Nein, danke -- Không, cảm ơn</string>
+    <string name="no_hablo_espanol">Ich spreche kein Deutsch -- Tôi không nói tiếng Đức</string>
+    <string name="nunca">Nie -- Không bao giờ</string>
+    <string name="pan">Brot -- Bánh mì</string>
+    <string name="por_favor">Bitte -- Xin</string>
+    <string name="quetal">Wie geht es Ihnen? -- Làm thế nào là bạn?</string>
+    <string name="servilleta">Serviette -- Khăn ăn</string>
+    <string name="si">Ja -- Vâng</string>
+    <string name="siempre">Immer -- Luôn luôn</string>
+    <string name="soy_de_eeuu">Ich bin aus der Türkei -- Tôi đến từ Thổ Nhĩ Kỳ</string>
+    <string name="subject1">Nhìn vào ứng dụng này!</string>
+    <string name="tenedor">Gabel -- Nia</string>
+    <string name="textoabout">Concept của Mymma Soto \nApplication phát triển bởi Pedro Santangelo \nIcons bởi Icons-Land \nhttp://www.icons-land.com</string>
+    <string name="toast_redir">Chuyển hướng để cài đặt Google Play Text to Speech Engine</string>
+    <string name="toast_set_language">Thiết lập ngôn ngữ TTS Đức</string>
+    <string name="toast_tts_error">Lỗi khởi tạo Text-To-Speech động cơ</string>
+    <string name="toast_tts_inicializado">Text-To-Speech động cơ được khởi tạo</string>
+    <string name="tren">Zug -- Xe lửa</string>
+    <string name="un_cafe">Ein Kaffee, bitte -- Một cà phê, xin vui lòng</string>
+    <string name="una_cerveza">Ein Bier, bitte -- Một bia, xin vui lòng</string>
+    <string name="una_paella">Eine Paella, bitte -- Một paella, xin vui lòng</string>
+    <string name="una_tortilla">Ein Omelette, bitte -- Món trứng chiên, xin vui lòng</string>
+    <string name="vaso">Glas -- Ly</string>
+    <string name="version">Version</string>
+</resources>
