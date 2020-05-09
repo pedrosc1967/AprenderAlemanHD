@@ -25,6 +25,8 @@ import android.widget.Toast;
 import com.apptracker.android.track.AppTracker;
 import com.facebook.ads.AdSize;
 import com.facebook.ads.AdView;
+import com.facebook.ads.AudienceNetworkAds;
+import com.facebook.ads.*;
 import com.flurry.android.FlurryAgent;
 
 import java.util.Locale;
@@ -54,7 +56,6 @@ public class AprenderAlemanHD extends Activity implements OnInitListener {
         mShareActionProvider.setShareIntent(getDefaultShareIntent());
 
         return super.onCreateOptionsMenu(menu);
-
     }
 
     /** Returns a share intent */
@@ -95,10 +96,6 @@ public class AprenderAlemanHD extends Activity implements OnInitListener {
         }
     }
 
-
-
-
-
 // Para Ogury
     /*
     @Override
@@ -137,6 +134,9 @@ private AdView adView;
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
 
+        // Initialize the Audience Network SDK Facebook
+        AudienceNetworkAds.initialize(this);
+
         //Presage.getInstance().setContext(this.getBaseContext());
         //Presage.getInstance().start();
 
@@ -155,17 +155,18 @@ private AdView adView;
         // Instantiate an AdView object.
         // NOTE: the placement ID will eventually identify this as your App, you can ignore it for
         // now, while you are testing and replace it later when you have signed up.
-        // While you are using this temporary code you will only get test ads and if you release
+        // While you are using this temporary code you will onl y get test ads and if you release
         // your code like this to the Google Play your users will not receive ads (you will get a no fill error).
-        adView = new AdView(this, "YOUR_PLACEMENT_ID", AdSize.BANNER_HEIGHT_50);
+        adView = new AdView(this, "277401629962028_277402969961894", AdSize.BANNER_HEIGHT_50);
 
         // Find the Ad Container
-        LinearLayout adContainer = (LinearLayout) findViewById(R.id.banner);
+        LinearLayout adContainer = (LinearLayout) findViewById(R.id.banner_container);
 
         // Add the ad view to your activity layout
-        adContainer.addView(adView);
+        adContainer.addView(adView); // --> Estaba sin comentar
 
         // Request an ad
+        AdSettings.addTestDevice("36cdb467-63c7-43f6-986a-bd07f2a0a907"); //para testing device
         adView.loadAd();
 
         // adMob shit was below

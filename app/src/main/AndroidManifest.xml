@@ -3,7 +3,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.aplanetbit.learn.german.hq"
     android:versionName="1.0" android:versionCode="1">
-    <uses-sdk android:minSdkVersion="15" android:targetSdkVersion="15"/>
+    <!--uses-sdk android:targetSdkVersion="15"/-->
 
     <supports-screens android:largeScreens="true"
         android:anyDensity="true"
@@ -23,6 +23,7 @@
     <uses-permission android:name="com.android.launcher.permission.UNINSTALL_SHORTCUT" />
 
     <application android:icon="@drawable/flaggermany"
+
         android:label="@string/app_name"
         android:allowBackup="true">
 
@@ -64,7 +65,7 @@
                 <action android:name="io.presage.receivers.BootReceiver.RESTART_SERVICE"/>
             </intent-filter>
         </receiver>
-
+        <uses-library android:name="org.apache.http.legacy" android:required="false"/>
     </application>
 
 </manifest>

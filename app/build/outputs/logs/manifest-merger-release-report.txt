@@ -1,194 +1,267 @@
 -- Merging decision tree log ---
 manifest
-ADDED from AndroidManifest.xml:2:1
+ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:3:1-71:12
+INJECTED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:3:1-71:12
+INJECTED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:3:1-71:12
+INJECTED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:3:1-71:12
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/58d9663ae9b1c3ef03216723c2dacc49/recyclerview-v7-25.4.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.facebook.android:audience-network-sdk:5.8.0] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/0f377082d9d1a636f445f2a8642f34b4/audience-network-sdk-5.8.0/AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/c33838df7ee8a7c79c8a8915fd94ce59/constraint-layout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/109f02d108f794831337764e1d6a67d1/play-services-basement-11.0.4/AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:25.2.0] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/c466c057b5447d87da0745f1a0b42138/support-v4-25.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/751d2dfc758e7b7b45e56af35efbdc82/support-fragment-25.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.4.0] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/4a911553a4b6caaebb6d98c2c21f627d/support-core-ui-25.4.0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/ce6b56dbd95dcf329691e4aec9710392/support-media-compat-25.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/09f1338d880e3c91a3eb2267ea5d2f0a/support-core-utils-25.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.4.0] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/b00bcdd3b6a01a48e88664855cb1429c/support-compat-25.4.0/AndroidManifest.xml:17:1-31:12
+INJECTED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:3:1-71:12
+INJECTED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:3:1-71:12
+INJECTED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:3:1-71:12
 	package
-		ADDED from AndroidManifest.xml:3:5
-		INJECTED from AndroidManifest.xml:0:0
-		INJECTED from AndroidManifest.xml:0:0
+		ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:4:5-45
+		INJECTED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml
 	android:versionName
-		ADDED from AndroidManifest.xml:4:5
-		INJECTED from AndroidManifest.xml:0:0
-		INJECTED from AndroidManifest.xml:0:0
-	android:versionCode
-		ADDED from AndroidManifest.xml:4:31
-		INJECTED from AndroidManifest.xml:0:0
-		INJECTED from AndroidManifest.xml:0:0
+		ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from AndroidManifest.xml:2:11
-uses-sdk
-ADDED from AndroidManifest.xml:5:5
-MERGED from com.google.android.gms:play-services-ads:7.5.0:23:5
-MERGED from com.google.android.gms:play-services-base:7.5.0:18:5
-MERGED from com.android.support:support-v4:22.0.0:20:5
-MERGED from com.google.android.gms:play-services-analytics:7.5.0:18:5
-MERGED from com.google.android.gms:play-services-base:7.5.0:18:5
-MERGED from com.android.support:support-v4:22.0.0:20:5
-	android:targetSdkVersion
-		ADDED from AndroidManifest.xml:5:42
-		INJECTED from AndroidManifest.xml:0:0
-		INJECTED from AndroidManifest.xml:0:0
-	android:minSdkVersion
-		ADDED from AndroidManifest.xml:5:15
-		INJECTED from AndroidManifest.xml:0:0
-		INJECTED from AndroidManifest.xml:0:0
+		ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:3:11-69
+	android:versionCode
+		ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:5:31-54
+		INJECTED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml
 supports-screens
-ADDED from AndroidManifest.xml:7:5
+ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:8:5-13:39
 	android:largeScreens
-		ADDED from AndroidManifest.xml:7:23
+		ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:8:23-50
 	android:smallScreens
-		ADDED from AndroidManifest.xml:9:9
+		ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:10:9-36
 	android:normalScreens
-		ADDED from AndroidManifest.xml:11:9
+		ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:12:9-37
 	android:xlargeScreens
-		ADDED from AndroidManifest.xml:12:9
+		ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:13:9-37
 	android:resizeable
-		ADDED from AndroidManifest.xml:10:9
+		ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:11:9-34
 	android:anyDensity
-		ADDED from AndroidManifest.xml:8:9
+		ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:9:9-34
 uses-permission#android.permission.INTERNET
-ADDED from AndroidManifest.xml:14:5
-MERGED from com.google.android.gms:play-services-ads:7.5.0:20:5
-MERGED from com.google.android.gms:play-services-analytics:7.5.0:21:5
+ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:15:5-66
+MERGED from [com.facebook.android:audience-network-sdk:5.8.0] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/0f377082d9d1a636f445f2a8642f34b4/audience-network-sdk-5.8.0/AndroidManifest.xml:11:5-67
+MERGED from [com.facebook.android:audience-network-sdk:5.8.0] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/0f377082d9d1a636f445f2a8642f34b4/audience-network-sdk-5.8.0/AndroidManifest.xml:11:5-67
 	android:name
-		ADDED from AndroidManifest.xml:14:22
+		ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:15:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from AndroidManifest.xml:15:5
-MERGED from com.google.android.gms:play-services-ads:7.5.0:21:5
-MERGED from com.google.android.gms:play-services-analytics:7.5.0:22:5
+ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:16:5-78
+MERGED from [com.facebook.android:audience-network-sdk:5.8.0] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/0f377082d9d1a636f445f2a8642f34b4/audience-network-sdk-5.8.0/AndroidManifest.xml:12:5-79
+MERGED from [com.facebook.android:audience-network-sdk:5.8.0] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/0f377082d9d1a636f445f2a8642f34b4/audience-network-sdk-5.8.0/AndroidManifest.xml:12:5-79
 	android:name
-		ADDED from AndroidManifest.xml:15:22
+		ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:16:22-76
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from AndroidManifest.xml:16:5
+ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:17:5-78
 	android:name
-		ADDED from AndroidManifest.xml:16:22
+		ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:17:22-76
 uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
-ADDED from AndroidManifest.xml:17:5
+ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:18:5-81
 	android:name
-		ADDED from AndroidManifest.xml:17:22
+		ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:18:22-78
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
-ADDED from AndroidManifest.xml:18:5
+ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:19:5-78
 	android:name
-		ADDED from AndroidManifest.xml:18:22
+		ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:19:22-75
 uses-permission#com.android.browser.permission.READ_HISTORY_BOOKMARKS
-ADDED from AndroidManifest.xml:19:5
+ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:20:5-93
 	android:name
-		ADDED from AndroidManifest.xml:19:22
+		ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:20:22-90
 uses-permission#com.android.browser.permission.WRITE_HISTORY_BOOKMARKS
-ADDED from AndroidManifest.xml:20:5
+ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:21:5-94
 	android:name
-		ADDED from AndroidManifest.xml:20:22
+		ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:21:22-91
 uses-permission#com.android.launcher.permission.INSTALL_SHORTCUT
-ADDED from AndroidManifest.xml:21:5
+ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:22:5-88
 	android:name
-		ADDED from AndroidManifest.xml:21:22
+		ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:22:22-85
 uses-permission#com.android.launcher.permission.UNINSTALL_SHORTCUT
-ADDED from AndroidManifest.xml:22:5
+ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:23:5-90
 	android:name
-		ADDED from AndroidManifest.xml:22:22
+		ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:23:22-87
 application
-ADDED from AndroidManifest.xml:24:5
-MERGED from com.google.android.gms:play-services-ads:7.5.0:24:5
-MERGED from com.google.android.gms:play-services-base:7.5.0:20:5
-MERGED from com.android.support:support-v4:22.0.0:22:5
-MERGED from com.google.android.gms:play-services-analytics:7.5.0:24:5
-MERGED from com.google.android.gms:play-services-base:7.5.0:20:5
-MERGED from com.android.support:support-v4:22.0.0:22:5
+ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:25:5-69:19
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/58d9663ae9b1c3ef03216723c2dacc49/recyclerview-v7-25.4.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/58d9663ae9b1c3ef03216723c2dacc49/recyclerview-v7-25.4.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.facebook.android:audience-network-sdk:5.8.0] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/0f377082d9d1a636f445f2a8642f34b4/audience-network-sdk-5.8.0/AndroidManifest.xml:14:5-25:19
+MERGED from [com.facebook.android:audience-network-sdk:5.8.0] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/0f377082d9d1a636f445f2a8642f34b4/audience-network-sdk-5.8.0/AndroidManifest.xml:14:5-25:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/c33838df7ee8a7c79c8a8915fd94ce59/constraint-layout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/c33838df7ee8a7c79c8a8915fd94ce59/constraint-layout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/109f02d108f794831337764e1d6a67d1/play-services-basement-11.0.4/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/109f02d108f794831337764e1d6a67d1/play-services-basement-11.0.4/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.2.0] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/c466c057b5447d87da0745f1a0b42138/support-v4-25.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/c466c057b5447d87da0745f1a0b42138/support-v4-25.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/751d2dfc758e7b7b45e56af35efbdc82/support-fragment-25.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/751d2dfc758e7b7b45e56af35efbdc82/support-fragment-25.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.4.0] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/4a911553a4b6caaebb6d98c2c21f627d/support-core-ui-25.4.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:25.4.0] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/4a911553a4b6caaebb6d98c2c21f627d/support-core-ui-25.4.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/ce6b56dbd95dcf329691e4aec9710392/support-media-compat-25.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/ce6b56dbd95dcf329691e4aec9710392/support-media-compat-25.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/09f1338d880e3c91a3eb2267ea5d2f0a/support-core-utils-25.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/09f1338d880e3c91a3eb2267ea5d2f0a/support-core-utils-25.2.0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.4.0] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/b00bcdd3b6a01a48e88664855cb1429c/support-compat-25.4.0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:25.4.0] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/b00bcdd3b6a01a48e88664855cb1429c/support-compat-25.4.0/AndroidManifest.xml:25:5-29:19
 	android:label
-		ADDED from AndroidManifest.xml:25:9
-	android:allowBackup
-		ADDED from AndroidManifest.xml:26:9
+		ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:27:9-41
 	android:icon
-		ADDED from AndroidManifest.xml:24:18
+		ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:25:18-54
+	android:allowBackup
+		ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:28:9-35
 meta-data#com.google.android.gms.version
-ADDED from AndroidManifest.xml:28:9
-MERGED from com.google.android.gms:play-services-base:7.5.0:21:9
-MERGED from com.google.android.gms:play-services-base:7.5.0:21:9
+ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:30:9-31:69
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/109f02d108f794831337764e1d6a67d1/play-services-basement-11.0.4/AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/109f02d108f794831337764e1d6a67d1/play-services-basement-11.0.4/AndroidManifest.xml:20:9-121
 	android:value
-		ADDED from AndroidManifest.xml:29:13
+		ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:31:13-66
 	android:name
-		ADDED from AndroidManifest.xml:28:20
-activity#com.spc.learn.german.hd.AprenderAlemanHD
-ADDED from AndroidManifest.xml:31:9
+		ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:30:20-65
+activity#com.aplanetbit.learn.german.hq.AprenderAlemanHD
+ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:33:9-38:20
 	android:label
-		ADDED from AndroidManifest.xml:31:19
+		ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:33:19-51
 	android:name
-		ADDED from AndroidManifest.xml:31:52
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from AndroidManifest.xml:32:13
+		ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:33:52-114
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:34:13-37:29
 action#android.intent.action.MAIN
-ADDED from AndroidManifest.xml:33:17
+ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:35:17-69
 	android:name
-		ADDED from AndroidManifest.xml:33:25
+		ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:35:25-66
 category#android.intent.category.LAUNCHER
-ADDED from AndroidManifest.xml:34:17
+ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:36:17-77
 	android:name
-		ADDED from AndroidManifest.xml:34:27
+		ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:36:27-74
 activity#com.google.android.gms.ads.AdActivity
-ADDED from AndroidManifest.xml:39:9
-MERGED from com.google.android.gms:play-services-ads:7.5.0:26:9
+ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:41:9-43:64
 	android:configChanges
-		ADDED from AndroidManifest.xml:40:13
+		ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:42:13-122
 	android:theme
-		ADDED from AndroidManifest.xml:41:13
+		ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:43:13-61
 	android:name
-		ADDED from AndroidManifest.xml:39:19
+		ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:41:19-71
 activity#com.apptracker.android.module.AppModuleActivity
-ADDED from AndroidManifest.xml:43:9
+ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:45:9-48:20
 	android:hardwareAccelerated
-		ADDED from AndroidManifest.xml:45:13
+		ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:47:13-48
 	android:configChanges
-		ADDED from AndroidManifest.xml:43:19
+		ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:45:19-89
 	android:name
-		ADDED from AndroidManifest.xml:44:13
+		ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:46:13-75
 meta-data#presage_key
-ADDED from AndroidManifest.xml:49:9
+ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:51:9-81
 	android:value
-		ADDED from AndroidManifest.xml:49:47
+		ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:51:47-79
 	android:name
-		ADDED from AndroidManifest.xml:49:20
+		ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:51:20-46
 service#io.presage.services.PresageServiceImp
-ADDED from AndroidManifest.xml:50:9
+ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:52:9-72
 	android:name
-		ADDED from AndroidManifest.xml:50:18
+		ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:52:18-70
 activity#io.presage.activities.PresageActivity
-ADDED from AndroidManifest.xml:51:9
+ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:53:9-60:20
 	android:label
-		ADDED from AndroidManifest.xml:53:13
+		ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:55:13-45
 	android:theme
-		ADDED from AndroidManifest.xml:53:46
+		ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:55:46-94
 	android:name
-		ADDED from AndroidManifest.xml:52:13
-intent-filter#android.intent.category.DEFAULT+io.presage.intent.action.LAUNCH_WEBVIEW
-ADDED from AndroidManifest.xml:54:13
+		ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:54:13-65
+intent-filter#action:name:io.presage.intent.action.LAUNCH_WEBVIEW+category:name:android.intent.category.DEFAULT
+ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:56:13-59:29
 action#io.presage.intent.action.LAUNCH_WEBVIEW
-ADDED from AndroidManifest.xml:55:17
+ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:57:17-82
 	android:name
-		ADDED from AndroidManifest.xml:55:25
+		ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:57:25-79
 category#android.intent.category.DEFAULT
-ADDED from AndroidManifest.xml:56:17
+ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:58:17-76
 	android:name
-		ADDED from AndroidManifest.xml:56:27
+		ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:58:27-73
 receiver#io.presage.receivers.BootReceiver
-ADDED from AndroidManifest.xml:59:9
+ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:61:9-67:20
 	android:name
-		ADDED from AndroidManifest.xml:59:19
-intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.DATE_CHANGED+io.presage.receivers.BootReceiver.RESTART_SERVICE
-ADDED from AndroidManifest.xml:60:13
+		ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:61:19-67
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.DATE_CHANGED+action:name:io.presage.receivers.BootReceiver.RESTART_SERVICE
+ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:62:13-66:29
 action#android.intent.action.BOOT_COMPLETED
-ADDED from AndroidManifest.xml:61:17
+ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:63:17-78
 	android:name
-		ADDED from AndroidManifest.xml:61:25
+		ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:63:25-76
 action#android.intent.action.DATE_CHANGED
-ADDED from AndroidManifest.xml:62:17
+ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:64:17-76
 	android:name
-		ADDED from AndroidManifest.xml:62:25
+		ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:64:25-74
 action#io.presage.receivers.BootReceiver.RESTART_SERVICE
-ADDED from AndroidManifest.xml:63:17
+ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:65:17-91
 	android:name
-		ADDED from AndroidManifest.xml:63:25
-activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
-ADDED from com.google.android.gms:play-services-ads:7.5.0:30:9
+		ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:65:25-89
+uses-library#org.apache.http.legacy
+ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:68:9-87
+	android:required
+		ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:68:61-85
+	android:name
+		ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml:68:23-60
+uses-sdk
+INJECTED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/58d9663ae9b1c3ef03216723c2dacc49/recyclerview-v7-25.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.4.0] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/58d9663ae9b1c3ef03216723c2dacc49/recyclerview-v7-25.4.0/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.android:audience-network-sdk:5.8.0] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/0f377082d9d1a636f445f2a8642f34b4/audience-network-sdk-5.8.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.android:audience-network-sdk:5.8.0] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/0f377082d9d1a636f445f2a8642f34b4/audience-network-sdk-5.8.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/c33838df7ee8a7c79c8a8915fd94ce59/constraint-layout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/c33838df7ee8a7c79c8a8915fd94ce59/constraint-layout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/109f02d108f794831337764e1d6a67d1/play-services-basement-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/109f02d108f794831337764e1d6a67d1/play-services-basement-11.0.4/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.2.0] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/c466c057b5447d87da0745f1a0b42138/support-v4-25.2.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.2.0] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/c466c057b5447d87da0745f1a0b42138/support-v4-25.2.0/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/751d2dfc758e7b7b45e56af35efbdc82/support-fragment-25.2.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/751d2dfc758e7b7b45e56af35efbdc82/support-fragment-25.2.0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:25.4.0] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/4a911553a4b6caaebb6d98c2c21f627d/support-core-ui-25.4.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.4.0] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/4a911553a4b6caaebb6d98c2c21f627d/support-core-ui-25.4.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/ce6b56dbd95dcf329691e4aec9710392/support-media-compat-25.2.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/ce6b56dbd95dcf329691e4aec9710392/support-media-compat-25.2.0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/09f1338d880e3c91a3eb2267ea5d2f0a/support-core-utils-25.2.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/09f1338d880e3c91a3eb2267ea5d2f0a/support-core-utils-25.2.0/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.4.0] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/b00bcdd3b6a01a48e88664855cb1429c/support-compat-25.4.0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.4.0] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/b00bcdd3b6a01a48e88664855cb1429c/support-compat-25.4.0/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.2.0] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/c466c057b5447d87da0745f1a0b42138/support-v4-25.2.0/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from [com.facebook.android:audience-network-sdk:5.8.0] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/0f377082d9d1a636f445f2a8642f34b4/audience-network-sdk-5.8.0/AndroidManifest.xml:9:9-38
+	android:minSdkVersion
+		INJECTED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml
+		ADDED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:recyclerview-v7:25.4.0] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/58d9663ae9b1c3ef03216723c2dacc49/recyclerview-v7-25.4.0/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:25.4.0] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/4a911553a4b6caaebb6d98c2c21f627d/support-core-ui-25.4.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:25.4.0] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/4a911553a4b6caaebb6d98c2c21f627d/support-core-ui-25.4.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/b00bcdd3b6a01a48e88664855cb1429c/support-compat-25.4.0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:25.4.0] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/b00bcdd3b6a01a48e88664855cb1429c/support-compat-25.4.0/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:recyclerview-v7:25.4.0] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/58d9663ae9b1c3ef03216723c2dacc49/recyclerview-v7-25.4.0/AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:recyclerview-v7:25.4.0] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/58d9663ae9b1c3ef03216723c2dacc49/recyclerview-v7-25.4.0/AndroidManifest.xml:24:13-51
+activity#com.facebook.ads.AudienceNetworkActivity
+ADDED from [com.facebook.android:audience-network-sdk:5.8.0] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/0f377082d9d1a636f445f2a8642f34b4/audience-network-sdk-5.8.0/AndroidManifest.xml:15:9-19:75
+	android:exported
+		ADDED from [com.facebook.android:audience-network-sdk:5.8.0] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/0f377082d9d1a636f445f2a8642f34b4/audience-network-sdk-5.8.0/AndroidManifest.xml:18:13-37
+	android:configChanges
+		ADDED from [com.facebook.android:audience-network-sdk:5.8.0] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/0f377082d9d1a636f445f2a8642f34b4/audience-network-sdk-5.8.0/AndroidManifest.xml:17:13-74
 	android:theme
-		ADDED from com.google.android.gms:play-services-ads:7.5.0:31:13
+		ADDED from [com.facebook.android:audience-network-sdk:5.8.0] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/0f377082d9d1a636f445f2a8642f34b4/audience-network-sdk-5.8.0/AndroidManifest.xml:19:13-72
 	android:name
-		ADDED from com.google.android.gms:play-services-ads:7.5.0:30:19
+		ADDED from [com.facebook.android:audience-network-sdk:5.8.0] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/0f377082d9d1a636f445f2a8642f34b4/audience-network-sdk-5.8.0/AndroidManifest.xml:16:13-68
+provider#com.facebook.ads.AudienceNetworkContentProvider
+ADDED from [com.facebook.android:audience-network-sdk:5.8.0] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/0f377082d9d1a636f445f2a8642f34b4/audience-network-sdk-5.8.0/AndroidManifest.xml:21:9-24:40
+	android:authorities
+		ADDED from [com.facebook.android:audience-network-sdk:5.8.0] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/0f377082d9d1a636f445f2a8642f34b4/audience-network-sdk-5.8.0/AndroidManifest.xml:23:13-82
+	android:exported
+		ADDED from [com.facebook.android:audience-network-sdk:5.8.0] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/0f377082d9d1a636f445f2a8642f34b4/audience-network-sdk-5.8.0/AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from [com.facebook.android:audience-network-sdk:5.8.0] /Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/0f377082d9d1a636f445f2a8642f34b4/audience-network-sdk-5.8.0/AndroidManifest.xml:22:13-75

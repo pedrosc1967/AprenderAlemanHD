@@ -2,11 +2,10 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 25
-    buildToolsVersion '27.0.3'
+    buildToolsVersion '28.0.3'
     defaultConfig {
         applicationId 'com.aplanetbit.learn.german.hd'
         minSdkVersion 15
-        targetSdkVersion 15
         versionCode 6
         versionName '1.5'
     }
@@ -24,8 +23,8 @@ dependencies {
     implementation files('libs/FlurryAnalytics_3.3.2.jar')
     implementation 'com.android.support:recyclerview-v7:25.4.0'
     implementation 'com.facebook.android:audience-network-sdk:5.+'
-    implementation 'com.google.android.gms:play-services-ads:7.5.0'
+    // implementation 'com.google.android.gms:play-services-ads:7.5.0'
     implementation files('libs/AppTracker.jar')
     implementation files('libs/presage-lib-1.6.0.jar')
-
+    implementation 'com.android.support.constraint:constraint-layout:1.1.3'
 }
