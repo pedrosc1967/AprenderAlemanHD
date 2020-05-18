@@ -22,12 +22,10 @@ import android.widget.ShareActionProvider;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.apptracker.android.track.AppTracker;
 import com.facebook.ads.AdSize;
 import com.facebook.ads.AdView;
 import com.facebook.ads.AudienceNetworkAds;
 import com.facebook.ads.*;
-import com.flurry.android.FlurryAgent;
 
 import java.util.Locale;
 
@@ -72,13 +70,12 @@ public class AprenderAlemanHD extends Activity implements OnInitListener {
         // Handle item selection
         switch (item.getItemId()) {
             case R.id.Otras_apps:
-                startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("https://play.google.com/store/search?q=APlanetBit&c=apps")));
+                startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("https://play.google.com/store/search?q=Aplanetbit&c=apps")));
                 return true;
             case R.id.Rate:
                 startActivity(new Intent(ACTION_VIEW, Uri.parse("https://play.google.com/store/apps/details?id="+getString(R.string.paquete)) ) );
                 return true;
             case R.id.Salir:
-                FlurryAgent.onEndSession(this);
                 this.finish();
                 return true;
             case R.id.Acerca:
@@ -96,36 +93,8 @@ public class AprenderAlemanHD extends Activity implements OnInitListener {
         }
     }
 
-// Para Ogury
-    /*
-    @Override
-    protected void onResume() {
-        super.onResume();
 
-        Presage.getInstance().adToServe("interstitial", new IADHandler() {
-
-            @Override
-            public void onAdNotFound() {
-            // Para LeadBolt
-                AppTracker.loadModule(getApplicationContext(), "inapp");
-
-            }
-
-            @Override
-            public void onAdFound() {
-                Log.i("PRESAGE", "ad found");
-            }
-
-            @Override
-            public void onAdClosed() {
-                Log.i("PRESAGE", "ad closed");
-            }
-        });
-    }
-    */
 //Definicion de la interfaz de usuario
-
-
 
 private AdView adView;
 
@@ -136,21 +105,6 @@ private AdView adView;
 
         // Initialize the Audience Network SDK Facebook
         AudienceNetworkAds.initialize(this);
-
-        //Presage.getInstance().setContext(this.getBaseContext());
-        //Presage.getInstance().start();
-
-
-        if(savedInstanceState == null) {
-            // Initialize Leadbolt SDK with your api key
-            AppTracker.startSession(getApplicationContext(), getString(R.string.LeadboltStr));
-        }
-        // cache Leadbolt Ad without showing it
-        AppTracker.loadModuleToCache(getApplicationContext(), "inapp");
-
-        // call this when you want to display the Leadbolt Interstitial
-        //AppTracker.loadModule(getApplicationContext(), "inapp");
-
 
         // Instantiate an AdView object.
         // NOTE: the placement ID will eventually identify this as your App, you can ignore it for
@@ -166,7 +120,7 @@ private AdView adView;
         adContainer.addView(adView); // --> Estaba sin comentar
 
         // Request an ad
-        AdSettings.addTestDevice("36cdb467-63c7-43f6-986a-bd07f2a0a907"); //para testing device
+        // AdSettings.addTestDevice("36cdb467-63c7-43f6-986a-bd07f2a0a907"); //para testing device
         adView.loadAd();
 
         // adMob shit was below
@@ -250,9 +204,6 @@ private AdView adView;
         Intent checkIntent = new Intent();
         checkIntent.setAction(TextToSpeech.Engine.ACTION_CHECK_TTS_DATA);
         startActivityForResult(checkIntent, MY_DATA_CHECK_CODE);
-
-//Id de Flurry	
-        FlurryAgent.onStartSession(this, getString(R.string.flurry));
 
 
 //Lo que hace el bot�n "Hola"

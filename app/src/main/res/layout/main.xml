@@ -24,11 +24,6 @@
             android:layout_alignParentBottom="true"
              />
   -->
-
-
-
-
-
        <ScrollView
           android:id="@+id/scroll"
           android:layout_width="match_parent"
@@ -721,7 +716,6 @@
               android:text="@string/habitacion_reservada"
               android:textColor="#000000"
               android:textStyle="bold" />
-
 
           <Button
               android:id="@+id/hastaprontoPlayerBtn"
