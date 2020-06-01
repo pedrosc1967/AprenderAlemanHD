@@ -4,13 +4,47 @@
             "outputFile": "/Users/aplanetbit/StudioProjects/AprenderAlemanHD/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kk/values-kk.xml",
             "map": [
                 {
-                    "source": "/Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/109f02d108f794831337764e1d6a67d1/play-services-basement-11.0.4/res/values-kk/values.xml",
+                    "source": "/Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/dea980fadcf289b7bf5fc62cc2a55ba8/jetified-play-services-ads-19.1.0/res/values-kk/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "0,0,0,0,0,0,0",
+                        "startOffsets": "199,271,395,461,529,610,723",
+                        "endColumns": "71,123,65,67,80,112,70",
+                        "endOffsets": "270,394,460,528,609,722,793"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "328,404,532,602,674,759,876",
+                        "endColumns": "75,127,69,71,84,116,74",
+                        "endOffsets": "399,527,597,669,754,871,946"
+                    }
+                },
+                {
+                    "source": "/Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/799659d157cba173c3391744d4f4133c/core-1.0.0/res/values-kk/values-kk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "951",
+                        "endColumns": "100",
+                        "endOffsets": "1047"
+                    }
+                },
+                {
+                    "source": "/Users/aplanetbit/.gradle/caches/transforms-2/files-2.1/5feaec8abf5f0f657ccb7d51c61164e6/jetified-play-services-basement-17.0.0/res/values-kk/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
-                        "startOffsets": "285",
+                        "startOffsets": "247",
                         "endColumns": "222",
-                        "endOffsets": "507"
+                        "endOffsets": "469"
                     },
                     "to": {
                         "startLines": "2",

@@ -8,22 +8,6 @@
     android:layout_width="fill_parent"
     android:layout_height="fill_parent">
 
-    <!--
-        <com.google.android.gms.ads.AdView
-            android:id="@+id/adView"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_alignParentBottom="true"
-            ads:adUnitId="@string/banner_ad_unit_id"
-            ads:adSize="SMART_BANNER"/>
-
-        <com.facebook.ads.AdView
-            android:id="@id/banner_container"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_alignParentBottom="true"
-             />
-  -->
        <ScrollView
           android:id="@+id/scroll"
           android:layout_width="match_parent"
@@ -725,13 +709,18 @@
               android:text="@string/hasta_pronto"
               android:textColor="#000000"
               android:textStyle="bold" />
-
-              </LinearLayout>
+         </LinearLayout>
        </ScrollView>
-  <LinearLayout
-      android:id="@+id/banner_container"
-      android:layout_width="match_parent"
-      android:layout_height="wrap_content"
-      android:orientation="vertical">
-  </LinearLayout>
+
+ <com.google.android.gms.ads.AdView
+     xmlns:ads="http://schemas.android.com/apk/res-auto"
+     android:id="@+id/adView"
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:layout_centerHorizontal="true"
+     android:layout_alignParentBottom="true"
+     ads:adSize="BANNER"
+     ads:adUnitId="ca-app-pub-3487468906571564/8276602469">
+ </com.google.android.gms.ads.AdView>
+
 </LinearLayout>
