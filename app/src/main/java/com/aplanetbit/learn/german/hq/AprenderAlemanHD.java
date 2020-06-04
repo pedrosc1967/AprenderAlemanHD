@@ -219,7 +219,7 @@ public class AprenderAlemanHD extends Activity implements OnInitListener {
             {
 
 
-                String cadena = getString(R.string.di_buenos_dias);
+                String cadena = getString(R.string.di_buenosdias);
                 try {
                     mTts.speak(cadena, TextToSpeech.QUEUE_FLUSH, null);
                     //playLocalAudio(R.raw.buenosdias);

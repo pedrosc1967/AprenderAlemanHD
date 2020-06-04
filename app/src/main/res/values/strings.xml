@@ -10,7 +10,7 @@
 	<string name="adios">Auf Wiedersehen -- Elveda</string>
 	<string name="di_adios">Auf Wiedersehen</string>
 	<string name="buenosdias">Guten Morgen-- Günaydın</string>
-	<string name="di_buenos_dias">Guten Morgen</string>
+	<string name="di_buenosdias">Guten Morgen</string>
 	<string name="buenas_tardes">Guten Abend-- İyi akşamlar</string>
 	<string name="di_buenas_tardes">Guten Abend</string>
 	<string name="buenas_noches">Guten Nacht-- Iyi geceler</string>
@@ -159,8 +159,10 @@
 	<string name="textoabout">Simgeler-Kara \n tarafından Pedro Santangelo \nIcons tarafından geliştirilen Mymma Soto \napplication göre Konsept http://www.icons-land.com</string>
 	<string name="version">Versiyon</string>
 	<string name="extra_text1">Bu uygulama çok yararlı! \ N deneyin! \ N https://play.google.com/store/apps/details?id=</string>
-	<string name="banner_ad_unit_id" translatable="false">ca-app-pub-3487468906571564/8276602469</string>
+	<string name="banner_ad_unit_id" translatable="false">ca-app-pub-3487468906571564/4145500353</string>
+	<string name="application_id" translatable="false">ca-app-pub-3487468906571564~8276602469</string>
 	<string name="LeadboltStr" translatable="false">3cNA4uJSKP5HrWSFI1UAKwbsogXO6dEw</string>
 	<string name="OguryStr" translatable="false">266642</string>
 	<string name="paquete" translatable="false">com.aplanetbit.learn.german.hd</string>
+	<string name="mensaje_cookies">"Direktifi 2002/58 uyarınca / Avrupa Parlamentosu ve Konsey bunun EC bu site cihaz tanımlayıcıları sosyal medya özellikleri sunmak ve trafiği analiz etmek için, içeriği ve reklamları kişiselleştirmek için kullanıldığını bildirilir. Biz de bu tanımlayıcıları paylaşmak ve sosyal medya ortakları, reklam ve web analizi ile cihazınızdaki diğer bilgiler. http://lagatera.dynu.net hakkında daha fazla ayrıntı "</string>
 </resources>

@@ -720,7 +720,7 @@
      android:layout_centerHorizontal="true"
      android:layout_alignParentBottom="true"
      ads:adSize="BANNER"
-     ads:adUnitId="ca-app-pub-3487468906571564/8276602469">
+     ads:adUnitId="@string/banner_ad_unit_id">
  </com.google.android.gms.ads.AdView>
 
 </LinearLayout>
