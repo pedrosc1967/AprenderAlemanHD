@@ -154,9 +154,9 @@
 	<string name="Acerca">Acerca de</string>
 	<string name="Rate">Velocidad</string>
 	<string name="about">Acerca de</string>
-	<string name="extra_text1">Esta aplicación es muy útil!\n Inténtelo!\n https://play.google.com/store/apps/details?id=</string>
+	<string name="extra_text1">Esta aplicación es muy útil! \n Inténtelo! \n https://play.google.com/store/apps/details?id=</string>
 	<string name="subject1">Mira esta aplicación!</string>
-	<string name="textoabout">Concepto por Mymma Soto\naplicación desarrollado por Aplanetbit\nIcons por Icons-Land\nhttp: //www.icons-land.com</string>
+	<string name="textoabout">Concepto por Mymma Soto \naplicación desarrollado por Aplanetbit \nIcons por Icons-Land \nhttp: //www.icons-land.com</string>
 	<string name="version">Versión</string>
 	<string name="mensaje_cookies">"De acuerdo con la Directiva 2002/58 / CE del Parlamento Europeo y del Consejo, se informa que este sitio de identificadores de dispositivos se utilizan para personalizar contenido y anuncios, con el fin de proporcionar funciones de medios sociales y para analizar el tráfico. También compartimos estos identificadores y otra información en su dispositivo con nuestros socios de los medios sociales, publicidad y web analytics. Más detalles sobre http://lagatera.dynu.net "</string>
 </resources>

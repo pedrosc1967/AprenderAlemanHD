@@ -6,8 +6,8 @@ android {
     defaultConfig {
         applicationId 'com.aplanetbit.learn.german.hd'
         minSdkVersion 16
-        versionCode 13
-        versionName '1.13'
+        versionCode 14
+        versionName '1.14'
         targetSdkVersion 28
     }
     buildTypes {

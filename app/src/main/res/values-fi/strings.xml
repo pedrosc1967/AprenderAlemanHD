@@ -154,9 +154,9 @@
 	<string name="Acerca">Noin</string>
 	<string name="Rate">nopeus</string>
 	<string name="about">Noin</string>
-	<string name="extra_text1">Tämä sovellus on erittäin hyödyllinen!\n Kokeile!\n https://play.google.com/store/apps/details?id=</string>
+	<string name="extra_text1">Tämä sovellus on erittäin hyödyllinen! \n Kokeile! \n https://play.google.com/store/apps/details?id=</string>
 	<string name="subject1">Katsokaa tätä sovellusta!</string>
-	<string name="textoabout">Konsepti Mymma Soto\nApplication kehittämä Aplanetbit\nIcons kuvakkeina-Land\nhttp: //www.icons-land.com</string>
+	<string name="textoabout">Konsepti Mymma Soto \nApplication kehittämä Aplanetbit \nIcons kuvakkeina-Land \nhttp: //www.icons-land.com</string>
 	<string name="version">Versio</string>
 	<string name="mensaje_cookies">"Direktiivin 2002/58 / EY, Euroopan parlamentin ja neuvoston sille ilmoitetaan, että tämä sivusto laitetunnisteita käytetään sisällön ja mainosten, jotta sosiaalisen median ominaisuuksia ja analysoimaan liikennettä. Olemme myös jakaa nämä tunnisteet ja muita tietoja laitteen kanssa sosiaalisen median kanssa, mainonta ja web-analytiikan. Tarkempia tietoja http://lagatera.dynu.net "</string>
 </resources>
